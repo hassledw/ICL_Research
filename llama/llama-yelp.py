@@ -263,7 +263,7 @@ def run_zeroshot_yelp_data_prompt_3():
         value = int(lookups[query])
         prompt = f"""
         rate the sentiment of the below review: "very negative", "negative", "neutral", "positive", or "very positive".
-        ###\"{query}\" is """
+        ###\"{query}\" Response: """
 
         output_text = query_model(query, prompt)
         print(output_text)
@@ -296,11 +296,11 @@ def run_fewshot_yelp_data_prompt_3():
         value = int(lookups[query])
         prompt = f"""
         #Here are some examples:
-        1. \"{similar_dict[(value + 1) % len(X_test)][0][:200]}...\" is \"{similar_dict[(value + 1) % len(X_test)][1]}\"
-        2. \"{similar_dict[(value + 2) % len(X_test)][0][:200]}...\" is \"{similar_dict[(value + 2) % len(X_test)][1]}\"
-        3. \"{similar_dict[(value + 3) % len(X_test)][0][:200]}...\" is \"{similar_dict[(value + 3) % len(X_test)][1]}\"
+        1. \"{similar_dict[(value + 1) % len(X_test)][0][:200]}...\" Response: \"{similar_dict[(value + 1) % len(X_test)][1]}\"
+        2. \"{similar_dict[(value + 2) % len(X_test)][0][:200]}...\" Response: \"{similar_dict[(value + 2) % len(X_test)][1]}\"
+        3. \"{similar_dict[(value + 3) % len(X_test)][0][:200]}...\" Response: \"{similar_dict[(value + 3) % len(X_test)][1]}\"
         rate the sentiment of the below review: "very negative", "negative", "neutral", "positive", or "very positive"#.
-        4. ###\"{query}\" is """
+        4. ###\"{query}\" Response: """
 
         output_text = query_model(query, prompt)
         print(output_text)
@@ -323,11 +323,11 @@ def run_fewshot_yelp_data_prompt_3():
 if __name__ == "__main__":
     model, tokenizer = create_model()
     # Run Yelp Test Suite
-    run_zeroshot_yelp_data_prompt_1()
-    run_zeroshot_yelp_data_prompt_2()
+    # run_zeroshot_yelp_data_prompt_1()
+    # run_zeroshot_yelp_data_prompt_2()
     run_zeroshot_yelp_data_prompt_3()
-    run_fewshot_yelp_data_prompt_1()
-    run_fewshot_yelp_data_prompt_2()
+    # run_fewshot_yelp_data_prompt_1()
+    # run_fewshot_yelp_data_prompt_2()
     run_fewshot_yelp_data_prompt_3()
 
 
