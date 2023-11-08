@@ -44,11 +44,11 @@ def create_data_arrays(datasetname="KaiLv/UDR_ComE"):
         instruction = parts[0]
         parts_split = parts[1].split("Options:")
         question = parts_split[0]
-        print(question)
         return question
-    df = pd.DataFrame({"question":dataset["test"]["question"]})
-    df["question"] = df["question"].apply(filter_question)
-    X_test = np.array(df["question"])
+    df = pd.DataFrame({"statement":dataset["test"]["question"], "choice":dataset["test"]["label"], "choices":dataset["test"]["choices"]})
+    df["statement"] = df["statement"].apply(filter_question)
+    # df.to_csv("/home/grads/hassledw/ICL_Research/UDR_comE_results/UDR-comE-llama.csv")
+    X_test = np.array(df["statement"])
     
     X_test_choices = np.array(dataset["test"]["choices"])
     y_test = np.array(dataset["test"]["label"])
@@ -99,13 +99,20 @@ def run_zeroshot_comE(name):
     start_time = time.time()
 
     for entry in zip(X_test, X_test_choices, y_test):
-        statement, choices, y_true = entry
-        prompt = f"""
+        statement, choices, y_true = entry\
+        
+        if "1" in name:
+            prompt = f"""
         #statement: {statement}\n
         Select the most corresponding reason why this statement is against common sense:
         {choices}
         choice: 
         """
+        elif "2" in name:
+            prompt = f"""Select the most corresponding reason why the statement is against common sense:\n{choices}\n#statement: {statement}\nchoice: """
+        elif "3" in name:
+            prompt = f"""#statement: {statement}\nChoose the option regarding why this statement is against common sense:\n{choices}\nchoice: """
+                
         output_text = query_model(prompt)
         print(output_text)
         print("\n")
@@ -129,4 +136,6 @@ def run_fewshot_comE(label, prompt):
 
 if __name__ == "__main__":
     model, tokenizer = create_model()
-    run_zeroshot_comE("UDR-comE-zeroshot-llama-1")
+    # run_zeroshot_comE("UDR-comE-zeroshot-llama-1")
+    run_zeroshot_comE("UDR-comE-zeroshot-llama-2")
+    run_zeroshot_comE("UDR-comE-zeroshot-llama-3")
