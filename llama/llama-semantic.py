@@ -31,18 +31,36 @@ class LlamaSemantic:
             self.y_label = "label"
             self.X_train, self.y_train, self.X_test = self.create_data_arrays("KaiLv/UDR_SNLI", self.X_label, self.y_label)
             self.labels = {-1: "none", 0: "entailment", 1: "inconclusive", 2: "contradiction"}
+        elif testname == "UDR_ComE":
+            self.X_label = "question"
+            self.y_label = "label"
+            self.X_train, self.y_train, self.X_test = self.create_data_arrays("KaiLv/UDR_ComE", self.X_label, self.y_label)
+            self.labels = {'A': 'A', 'B': 'B', 'C': 'C'}
 
-    def create_data_arrays(self, datasetname, X_label, y_label):
+    def create_data_arrays(self, datasetname, X_label, y_label, test_size=500):
         '''
         Creates the X_* and y_* arrays.
         '''
         dataset = load_dataset(datasetname)
         X_train = np.array(dataset["train"][X_label])
         y_train = np.array(dataset["train"][y_label])
-
         X_test = np.array(dataset["test"][X_label])
+
+        if self.testname == "UDR_ComE":
+            # if UDR_ComE, just grab the letter of the choice.
+            X_train = np.array([value[80:] for value in X_train])
+            X_train = np.array([value.replace(" Options:", "\nOptions:") for value in X_train])
+            X_train = np.array([value.replace(" A.", "\nA.") for value in X_train])
+            X_train = np.array([value.replace(" B.", "\nB.") for value in X_train])
+            X_train = np.array([value.replace(" C.", "\nC.") for value in X_train])
+            y_train = np.array([value[0] for value in y_train])
+            X_test = np.array([value[80:] for value in X_test])
+            X_test = np.array([value.replace(" Options:", "\nOptions:") for value in X_test])
+            X_test = np.array([value.replace(" A.", "\nA.") for value in X_test])
+            X_test = np.array([value.replace(" B.", "\nB.") for value in X_test])
+            X_test = np.array([value.replace(" C.", "\nC.") for value in X_test])
         
-        return X_train, y_train, X_test
+        return X_train, y_train, X_test[:test_size]
     
     def create_semantic_embeddings(self):
         '''
@@ -106,13 +124,13 @@ class LlamaSemantic:
             train_idx_2 = entry[1]["corpus_id"]
             train_idx_3 = entry[2]["corpus_id"]
             
-            prompt = f"\nHere are some examples of my task:\n\
-1. {self.X_train[train_idx_1][:300]} Response: {self.labels[self.y_train[train_idx_1]]}\n\
-2. {self.X_train[train_idx_2][:300]} Response: {self.labels[self.y_train[train_idx_2]]}\n\
-3. {self.X_train[train_idx_3][:300]} Response: {self.labels[self.y_train[train_idx_3]]}\n\
+            prompt = f"\n\
+{self.X_train[train_idx_1][:300]}\nResponse: {self.labels[self.y_train[train_idx_1]]}\n\
+{self.X_train[train_idx_2][:300]}\nResponse: {self.labels[self.y_train[train_idx_2]]}\n\
+{self.X_train[train_idx_3][:300]}\nResponse: {self.labels[self.y_train[train_idx_3]]}\n\
 {direction}\n\
-Review: \"{query}\"\n\
-Response: "
+{query}\nResponse: "
+            
 
             output_text = self.query_model(prompt)
 
@@ -136,9 +154,7 @@ Response: "
         count = 1
 
         for query in self.X_test:
-            prompt = f"{direction}\n\
-Review: \"{query}\"\n\
-Response: "
+            prompt = f"{direction}\nStatement: {query}\nResponse: "
 
             output_text = self.query_model(prompt)
 
@@ -167,7 +183,7 @@ if __name__ == "__main__":
             token=token)
     
     ls_yelp = LlamaSemantic("UDR_Yelp", tokenizer, model)
-    direction = "rate the sentiment of the below review: \"very negative\", \"negative\", \"neutral\", \"positive\", or \"very positive\"."
+    direction = "Rate the following statement \"very negative\", \"negative\", \"neutral\", \"positive\", or \"very positive\"."
     ls_yelp.zeroshot(direction)
     ls_yelp.fewshot(direction)
     
@@ -175,3 +191,8 @@ if __name__ == "__main__":
     direction = ""
     ls_snli.zeroshot(direction)
     ls_snli.fewshot(direction)
+
+    ls_come = LlamaSemantic("UDR_ComE", tokenizer, model)
+    direction = "Choose why the following statement is against common sense: \"A\", \"B\", or \"C\""
+    # ls_come.zeroshot(direction)
+    # ls_come.fewshot(direction)
