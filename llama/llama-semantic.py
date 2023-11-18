@@ -9,7 +9,6 @@ import pandas as pd
 import time
 from transformers import LlamaForCausalLM, LlamaTokenizer
 import sys
-from sklearn.cluster import KMeans
 from sentence_transformers import SentenceTransformer, util
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu") # device object
@@ -36,30 +35,100 @@ class LlamaSemantic:
             self.y_label = "label"
             self.X_train, self.y_train, self.X_test = self.create_data_arrays("KaiLv/UDR_ComE", self.X_label, self.y_label)
             self.labels = {'A': 'A', 'B': 'B', 'C': 'C'}
+        elif testname == "CosmosQA":
+            self.X_label = "prompt"
+            self.y_label = "label"
+            self.X_train, self.y_train, self.X_test = self.create_data_arrays("cosmos_qa", self.X_label, self.y_label)
+            self.labels = {0:'0', 1:'1', 2:'2', 3:'3'}
+        elif testname == "ARC-Challenge":
+            self.X_label = "prompt"
+            self.y_label = "answerKey"
+            self.X_train, self.y_train, self.X_test = self.create_data_arrays("ai2_arc", self.X_label, self.y_label)
+            self.labels = {'A': 'A', 'B': 'B', 'C': 'C', 'D': 'D'}
 
-    def create_data_arrays(self, datasetname, X_label, y_label, test_size=500):
+    def create_data_arrays(self, datasetname, X_label, y_label, test_size=700):
         '''
         Creates the X_* and y_* arrays.
         '''
-        dataset = load_dataset(datasetname)
-        X_train = np.array(dataset["train"][X_label])
-        y_train = np.array(dataset["train"][y_label])
-        X_test = np.array(dataset["test"][X_label])
+        X_train = None
+        y_train = None
+        X_test = None
 
         if self.testname == "UDR_ComE":
             # if UDR_ComE, just grab the letter of the choice.
+            dataset = load_dataset(datasetname)
+            X_train = np.array(dataset["train"][X_label])
+            y_train = np.array(dataset["train"][y_label])
+            X_test = np.array(dataset["test"][X_label])
+
             X_train = np.array([value[80:] for value in X_train])
             X_train = np.array([value.replace(" Options:", "\nOptions:") for value in X_train])
             X_train = np.array([value.replace(" A.", "\nA.") for value in X_train])
             X_train = np.array([value.replace(" B.", "\nB.") for value in X_train])
             X_train = np.array([value.replace(" C.", "\nC.") for value in X_train])
+
             y_train = np.array([value[0] for value in y_train])
+
             X_test = np.array([value[80:] for value in X_test])
             X_test = np.array([value.replace(" Options:", "\nOptions:") for value in X_test])
             X_test = np.array([value.replace(" A.", "\nA.") for value in X_test])
             X_test = np.array([value.replace(" B.", "\nB.") for value in X_test])
             X_test = np.array([value.replace(" C.", "\nC.") for value in X_test])
-        
+
+        elif self.testname == "CosmosQA":
+            dataset = load_dataset(datasetname)
+            df_X_train = pd.DataFrame(data=dataset["train"])
+            df_X_test = pd.DataFrame(data=dataset["validation"])
+            df_X_train[X_label] = "Context: " + df_X_train['context'] + "\n" + "Question: " + df_X_train['question'] + "\nOptions:\n0." + df_X_train['answer0'] + "\n1." + df_X_train['answer1'] + "\n2." + df_X_train['answer2'] + "\n3." + df_X_train['answer3'] + "\n"
+            df_X_test[X_label] = "Context: " + df_X_test['context'] + "\n" + "Question: " + df_X_test['question'] + "\nOptions:\n0." + df_X_test['answer0'] + "\n1." + df_X_test['answer1'] + "\n2." + df_X_test['answer2'] + "\n3." + df_X_test['answer3'] + "\n"
+
+            X_train = np.array(df_X_train[X_label])
+            y_train = np.array(dataset["train"][y_label])
+            X_test = np.array(df_X_test[X_label])
+            y_test = np.array(dataset["validation"][y_label])
+
+        elif self.testname == "ARC-Challenge":
+            dataset = load_dataset(datasetname, 'ARC-Challenge')
+            # X_train = np.array(dataset["train"]["question"])
+            choices = [choice["text"] for choice in dataset["train"]["choices"]]
+            df_X_train = pd.DataFrame(data={"question":dataset["train"]["question"], "choices": choices})
+            df_X_train[X_label] = ''
+            labels = ['A', 'B', 'C', 'D']
+
+            for index, row in df_X_train.iterrows():
+                df_X_train.at[index,X_label] = f"Question: {row['question']}" + "\nChoices:\n"
+                for i, (label, choice) in enumerate(zip(labels, row['choices'])):
+                    df_X_train.at[index,X_label] += f"{label}. {choice}\n"
+
+            choices = [choice["text"] for choice in dataset["test"]["choices"]]
+            df_X_test = pd.DataFrame(data={"question":dataset["test"]["question"], "choices": choices})
+            df_X_test[X_label] = ''
+            labels = ['A', 'B', 'C', 'D']
+
+            for index, row in df_X_test.iterrows():
+                df_X_test.at[index,X_label] = f"Question: {row['question']}" + "\nChoices:\n"
+                for i, (label, choice) in enumerate(zip(labels, row['choices'])):
+                    df_X_test.at[index,X_label] += f"{label}. {choice}\n"
+            
+
+            # print(df_X_train.at[0, 'prompt'])
+            # print(df_X_test.at[0, 'prompt'])
+            df_y_train = pd.DataFrame(data={"answerKey":dataset["train"]["answerKey"]})
+            df_y_test = pd.DataFrame(data={"answerKey":dataset["test"]["answerKey"]})
+            df_y_train["answerKey"] = df_y_train["answerKey"].replace({"1": "A", "2": "B", "3": "C", "4": "D"})
+            df_y_test["answerKey"] = df_y_test["answerKey"].replace({"1": "A", "2": "B", "3": "C", "4": "D"})
+
+            X_train = np.array(df_X_train[X_label])
+            y_train = np.array(df_y_train[y_label])
+            X_test = np.array(df_X_test[X_label])
+            y_test = np.array(df_y_test[y_label])
+
+        else:
+            dataset = load_dataset(datasetname)
+            X_train = np.array(dataset["train"][X_label])
+            y_train = np.array(dataset["train"][y_label])
+            X_test = np.array(dataset["test"][X_label])
+
         return X_train, y_train, X_test[:test_size]
     
     def create_semantic_embeddings(self):
@@ -110,7 +179,7 @@ class LlamaSemantic:
 
         return output_text
     
-    def fewshot(self, direction):
+    def fewshot(self, direction, char_limit=300):
         '''
         Runs fewshot k=3 prompts on Llama model, where the fewshot examples are the most semantically similar entries to the query.
         '''
@@ -125,9 +194,9 @@ class LlamaSemantic:
             train_idx_3 = entry[2]["corpus_id"]
             
             prompt = f"\n\
-{self.X_train[train_idx_1][:300]}\nResponse: {self.labels[self.y_train[train_idx_1]]}\n\
-{self.X_train[train_idx_2][:300]}\nResponse: {self.labels[self.y_train[train_idx_2]]}\n\
-{self.X_train[train_idx_3][:300]}\nResponse: {self.labels[self.y_train[train_idx_3]]}\n\
+{self.X_train[train_idx_1][:char_limit]}\nResponse: {self.labels[self.y_train[train_idx_1]]}\n\
+{self.X_train[train_idx_2][:char_limit]}\nResponse: {self.labels[self.y_train[train_idx_2]]}\n\
+{self.X_train[train_idx_3][:char_limit]}\nResponse: {self.labels[self.y_train[train_idx_3]]}\n\
 {direction}\n\
 {query}\nResponse: "
             
@@ -154,7 +223,11 @@ class LlamaSemantic:
         count = 1
 
         for query in self.X_test:
-            prompt = f"{direction}\nStatement: {query}\nResponse: "
+
+            if self.testname == "CosmosQA" or self.testname == "ARC-Challenge":
+                prompt = f"{direction}\n{query}\nResponse: "
+            else:
+                prompt = f"{direction}\nStatement: {query}\nResponse: "
 
             output_text = self.query_model(prompt)
 
@@ -194,5 +267,15 @@ if __name__ == "__main__":
 
     ls_come = LlamaSemantic("UDR_ComE", tokenizer, model)
     direction = "Choose why the following statement is against common sense: \"A\", \"B\", or \"C\""
-    # ls_come.zeroshot(direction)
-    # ls_come.fewshot(direction)
+    ls_come.zeroshot(direction)
+    ls_come.fewshot(direction)
+
+    ls_cosmos = LlamaSemantic("CosmosQA", tokenizer, model)
+    direction = "Choose the correct response: 0, 1, 2, or 3"
+    ls_cosmos.zeroshot(direction)
+    ls_cosmos.fewshot(direction, char_limit=2000)
+
+    ls_arc = LlamaSemantic("ARC-Challenge", tokenizer, model)
+    direction = "Choose the correct response: \"A\", \"B\", \"C\", or \"D\""
+    ls_arc.zeroshot(direction)
+    ls_arc.fewshot(direction)
