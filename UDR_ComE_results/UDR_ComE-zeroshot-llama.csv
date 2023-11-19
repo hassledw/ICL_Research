@@ -900,7 +900,7 @@ Options:
 A. before praying,  he drinks some energy drinks
 B. pray makes you relaxing while energy drinks make you energetic
 C. Praying before sleeping is a  great way to sleep peacefully.
-Response:  C) Praying before sleeping is not necessarily related with how much caffeine someone"
+Response:  C) Praying before sleeping is not necessarily related with how much caffeine one"
 0," I use grass to cut my lawnmower.
 Options:
 A. Grass cannot cut a lawnmower.
@@ -1296,7 +1296,7 @@ Options:
 A. The bird has no money
 B. The bird cannot rent a room
 C. There are no rooms for rent
-Response:  B -The Bird Cannot Rent A Room"
+Response:  B -The Bird can not Rent A Room"
 0," he always wins the lottery
 Options:
 A. lottery is usually worn only once by the same party
@@ -2583,7 +2583,7 @@ Options:
 A. cats also have their own bowls
 B. The cat is much bigger than the bowl
 C. cat can't eat in a bowl
-Response:  C) Cat cannot eat from a bowl, it goes Against Common Sense as we know"
+Response:  C) Cat cannot eat from a bowl, this option goes Against Common Sense as it"
 0," she put the giraffe in the freezer
 Options:
 A. giraffe are usually painted and the freezer is usually white
@@ -3265,7 +3265,7 @@ Options:
 A. Humans are too lazy to run across the planet
 B. Humans are not mammal enough to go that fast
 C. Humans are relatively slow creatures compared to most mammals
-Response:  C) Human beings, as a species, may have evolved over millions of years and developed"
+Response:  C) Human beings, as a species, have an average running speed of around 10"
 0," The robot felt sad
 Options:
 A. Robots do not have feelings, and therefore, cannot feel sad
@@ -4310,7 +4310,7 @@ Options:
 A. Lotion is a skin product, not a food additive.
 B. Tea is already wet so it doesn't need moisturizing.
 C. Lotion is opaque while tea is translucent.
-Response:  B -Tea does indeed require water to be steeped and served hot but lotion cannot"
+Response:  B -Tea does indeed require water to steep and prepare but lotion cannot provide this function"
 0," sitting on the barbed wire is more comfortable than sitting on a stool
 Options:
 A. stools are hard and don't have back support
@@ -4750,7 +4750,7 @@ Options:
 A. Communication s a vital aspect of life on earth
 B. People communicate for many greedy reasons and some are cynical when they do.
 C. Communication is at an all-time low with the advent of technology
-Response:  C - The communication between people has been declining due to technological advancements, which can"
+Response:  C)Communications has reached new heights due to technological advancements, making it"
 0," he put a hat inside of his head
 Options:
 A. a hat can't get through the skull into the head
@@ -4871,7 +4871,7 @@ Options:
 A. he drove his car to see the whale
 B. a whale is much bigger than his car
 C. a whale can't drive his car
-Response:  B - A whale cannot fit inside of most cars, so it would be impossible for someone to"
+Response:  B - A whale cannot fit inside of most cars, let alone be able to operate it"
 0," He went to fishing in the Jeep to the desert.
 Options:
 A. fishing can be done on the lake only.
@@ -5058,7 +5058,7 @@ Options:
 A. The time-lapse was very well made and looks great
 B. A time-lapse is bad when it's blurry
 C. Don't move the camera too much
-Response:  C) don’t move the camera toomuch"
+Response:  B - It goes Against Common Sense to say that a timelapse video would be"
 0," the little girl howled at the wolf
 Options:
 A. both little girls and wolves need to sleep
@@ -5201,7 +5201,7 @@ Options:
 A. Cars have four wheels
 B. The car cant fit one hundred people
 C. There are hundreds of people and cars
-Response:  B - A single-passenger vehicle cannot accommodate a large number like One Hundred People,"
+Response:  B - A Car can't Fit One Hundred People"
 0," I ride a car on the ocean
 Options:
 A. the ocean is much bigger than a car
@@ -5366,7 +5366,7 @@ Options:
 A. Cars have tires.
 B. Elephants are bigger than cars.
 C. Elephants have feet.
-Response:  B - Elephants Are Bigger Than Car"
+Response:  B - Elephants are bigger than cars"
 0," crackhead does not take drugs
 Options:
 A. crackhead is a term for drug addicts
@@ -5499,3 +5499,2203 @@ A. No one takes a bath wearing running shoes because they will be damaged by wat
 B. Shoes are different in color and size.
 C. Running with shoes is good for the foot.
 Response:  C)Running with shoes is good for your feet"
+0," A FISH WALKS IN THE STREET
+Options:
+A. FISH AND STREET ARE SAME IN COLOR
+B. FISH CANNOT LIVE WITHOUT WATER
+C. FISH AND STREETS ARE NOT FRIENDS","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  A FISH WALKS IN THE STREET
+Options:
+A. FISH AND STREET ARE SAME IN COLOR
+B. FISH CANNOT LIVE WITHOUT WATER
+C. FISH AND STREETS ARE NOT FRIENDS
+Response:  B - Fish cannot live without water"
+0," surveys have been known to harm children
+Options:
+A. surveys tend to waste electricity
+B. surveys cannot cause physical harm
+C. surveys are always in form of questions","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  surveys have been known to harm children
+Options:
+A. surveys tend to waste electricity
+B. surveys cannot cause physical harm
+C. surveys are always in form of questions
+Response:  B - Surveys do not typically physically harms individuals, so option (b) that"
+0," Women are usually larger than men.
+Options:
+A. Women are generally smaller than men.
+B. Women can be fat.
+C. Men can be fat.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Women are usually larger than men.
+Options:
+A. Women are generally smaller than men.
+B. Women can be fat.
+C. Men can be fat.
+Response:  A"
+0," dinner is for dancing at
+Options:
+A. You can go dancing after dinner
+B. Someone is dancing in the hall when you are having dinner
+C. a dinner is for eating meals","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  dinner is for dancing at
+Options:
+A. You can go dancing after dinner
+B. Someone is dancing in the hall when you are having dinner
+C. a dinner is for eating meals
+Response:  B - someone is dancing on your table while u r enjoying ur food"
+0," The best wood is made out of metal.
+Options:
+A. Wood and metal have a different color.
+B. Metal and wood come from the same place.
+C. Wood is a material than can not be made out of any other material.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The best wood is made out of metal.
+Options:
+A. Wood and metal have a different color.
+B. Metal and wood come from the same place.
+C. Wood is a material than can not be made out of any other material.
+Response:  C) Wood cannot be made into another type of substance, which means it does go counter to"
+0," Roses are blue and violets are red
+Options:
+A. Each flower has a determined color that is very difficult to change naturally
+B. Roses and violets are flowers that are either red or blue
+C. blue Flowers cannot be roses and the red ones cannot be violated","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Roses are blue and violets are red
+Options:
+A. Each flower has a determined color that is very difficult to change naturally
+B. Roses and violets are flowers that are either red or blue
+C. blue Flowers cannot be roses and the red ones cannot be violated
+Response:  C"
+0," The kangaroos are common to every continent.
+Options:
+A. Kangaroos in the wild are only found in Australia.
+B. Kangaroos have pockets,  so they can inhabit anywhere.
+C. Australia is an island continent,  and Kangaroos cannot swim,","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The kangaroos are common to every continent.
+Options:
+A. Kangaroos in the wild are only found in Australia.
+B. Kangaroos have pockets,  so they can inhabit anywhere.
+C. Australia is an island continent,  and Kangaroos cannot swim,
+Response:  A"
+0," dancers just arrived at the accident scene to rescue the victims
+Options:
+A. dancers have never learned the knowledge and skills related to first aid
+B. dancers move around mostly with a band
+C. usually only a trained dancer can do the splits.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  dancers just arrived at the accident scene to rescue the victims
+Options:
+A. dancers have never learned the knowledge and skills related to first aid
+B. dancers move around mostly with a band
+C. usually only a trained dancer can do the splits.
+Response:  C) Usually, Only A Trained Dancer Can Do The Splits"
+0," Sandwich made a turkey.
+Options:
+A. Sandwich and turkeys can both be eaten.
+B. Sandwich can be made with tuna.
+C. Sandwich is an inanimate object.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Sandwich made a turkey.
+Options:
+A. Sandwich and turkeys can both be eaten.
+B. Sandwich can be made with tuna.
+C. Sandwich is an inanimate object.
+Response:  C) The sandwhich is just something you put food between, it's not alive so cannot"
+0," My father can take a high jump up to 200m.
+Options:
+A. My father can run 200m with jumping easily
+B. Some people run 200m as preparation before jumping
+C. Human body isn't strong enough to jump to 200m.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  My father can take a high jump up to 200m.
+Options:
+A. My father can run 200m with jumping easily
+B. Some people run 200m as preparation before jumping
+C. Human body isn't strong enough to jump to 200m.
+Response:  C) The human body cannot generate sufficient force and energy for an individual of any age, size,"
+0," Heaven is horrible
+Options:
+A. Heaven is meant to be a paradise. Therefore, it cannot be horrible
+B. Heaven does not exist
+C. People want to go to heaven","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Heaven is horrible
+Options:
+A. Heaven is meant to be a paradise. Therefore, it cannot be horrible
+B. Heaven does not exist
+C. People want to go to heaven
+Response:  C) People Want To Go To Heavensome people may find this idea absurd because"
+0," She went to the museum next weekend.
+Options:
+A. Last weekend is in the past and next weekend is in the future.
+B. You can't do something that hasn't happened yet.
+C. Last weekend is predictable and next weekend is unpredictable.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She went to the museum next weekend.
+Options:
+A. Last weekend is in the past and next weekend is in the future.
+B. You can't do something that hasn't happened yet.
+C. Last weekend is predictable and next weekend is unpredictable.
+Response:  B -You cannot go somewhere if it has not occurred already, so option (b) makes most"
+0," I was on date with lion yesterday.
+Options:
+A. I had a happy time with my friends.
+B. Lion is a fierce animal and he can eat me.
+C. The lion is the king of the animal.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  I was on date with lion yesterday.
+Options:
+A. I had a happy time with my friends.
+B. Lion is a fierce animal and he can eat me.
+C. The lion is the king of the animal.
+Response:  B"
+0," My mom always cuts my fish's hair.
+Options:
+A. Mom can't fit in the aquarium, and the fish can't sit in the salon's chair.
+B. Fish don't have any hair.
+C. After cutting her hair, my mother went to buy some fishes","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  My mom always cuts my fish's hair.
+Options:
+A. Mom can't fit in the aquarium, and the fish can't sit in the salon's chair.
+B. Fish don't have any hair.
+C. After cutting her hair, my mother went to buy some fishes
+Response:  B - The reason this option stands out as being counterintuitive compared with what most people would"
+0," It is OK to take hot things out of the oven without using an oven mitten.
+Options:
+A. You can burn yourself if you take hot things out of the oven with your bare hands.
+B. As long as you take it out of the oven quickly, it is just fine not to use a oven mitten.
+C. If the food has only been in the oven for 15 minutes or so, then go ahead and take it out without using an oven mitten.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  It is OK to take hot things out of the oven without using an oven mitten.
+Options:
+A. You can burn yourself if you take hot things out of the oven with your bare hands.
+B. As long as you take it out of the oven quickly, it is just fine not to use a oven mitten.
+C. If the food has only been in the oven for 15 minutes or so, then go ahead and take it out without using an oven mitten.
+Response:  A"
+0," He put a pony in the lock.
+Options:
+A. A pony is much larger than a lock.
+B. Ponies are usually colored while the locks are golden.
+C. A pony does not open locks.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He put a pony in the lock.
+Options:
+A. A pony is much larger than a lock.
+B. Ponies are usually colored while the locks are golden.
+C. A pony does not open locks.
+Response:  C) A pony doesn't typically unlock things, so this claim goes counter to what"
+0," Banks lend money without any interest
+Options:
+A. Banks have a lot of money
+B. Banks give money
+C. Banks make money from lending money","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Banks lend money without any interest
+Options:
+A. Banks have a lot of money
+B. Banks give money
+C. Banks make money from lending money
+Response:  C) banks do not actually 'make' anything when they loan out their depositors funds, but"
+0," He drinks white glue in breakfast
+Options:
+A. nobody eats glue
+B. glue is transparent
+C. glue is useful","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He drinks white glue in breakfast
+Options:
+A. nobody eats glue
+B. glue is transparent
+C. glue is useful
+Response:  C) Glue is not a food item and it's harmful if ingested, so"
+0," Peter is sleeping towards the bus stop
+Options:
+A. it is unusual to sleep towards the bus stop
+B. Peter fell asleep waiting for the bus because of tiredness
+C. he missed the final bus though he had run so fast","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Peter is sleeping towards the bus stop
+Options:
+A. it is unusual to sleep towards the bus stop
+B. Peter fell asleep waiting for the bus because of tiredness
+C. he missed the final bus though he had run so fast
+Response:  B"
+0," The teachers scolded the principal.
+Options:
+A. The principal is a male and the teachers are female.
+B. Principal eat with teachers
+C. The teacher can't able to scold the principal.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The teachers scolded the principal.
+Options:
+A. The principal is a male and the teachers are female.
+B. Principal eat with teachers
+C. The teacher can't able to scold the principal.
+Response:  C)The Teacher cannot be unable to Scold the Principle"
+0," He put on a bike.
+Options:
+A. He put a basket on the bike.
+B. Bikes don't wear clothes
+C. The bike is not cloth for people to put on","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He put on a bike.
+Options:
+A. He put a basket on the bike.
+B. Bikes don't wear clothes
+C. The bike is not cloth for people to put on
+Response:  C)The Bike Is Not Cloth For People To Put On"
+0," She put the filing cabinet into the papers.
+Options:
+A. Papers are fragile than the filing cabinet.
+B. Nothing can be put into the paper.
+C. Filing cabinets are usually gray while papers are white.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She put the filing cabinet into the papers.
+Options:
+A. Papers are fragile than the filing cabinet.
+B. Nothing can be put into the paper.
+C. Filing cabinets are usually gray while papers are white.
+Response:  C) The color of a filing cupboard and that of documents may not match, but it"
+0," My bird is about forty feet tall.
+Options:
+A. There are big birds and small birds
+B. No bird is 40 feet tall.
+C. Birds have many different colors.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  My bird is about forty feet tall.
+Options:
+A. There are big birds and small birds
+B. No bird is 40 feet tall.
+C. Birds have many different colors.
+Response:  B -No bird can be as large as you described, so this option best represents what most people"
+0," No one drinks milk because you cannot absorb nutrients from it.
+Options:
+A. Milk is not the only thing that people drink.
+B. Milk is different from water
+C. Milk is a common beverage that people drink in order to get calcium and protein.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  No one drinks milk because you cannot absorb nutrients from it.
+Options:
+A. Milk is not the only thing that people drink.
+B. Milk is different from water
+C. Milk is a common beverage that people drink in order to get calcium and protein.
+Response:  C"
+0," He cut the onion with a spoon
+Options:
+A. Spoons are too blunt to cut an onion
+B. onion is round and spoons are round
+C. spoons are harder than onion","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He cut the onion with a spoon
+Options:
+A. Spoons are too blunt to cut an onion
+B. onion is round and spoons are round
+C. spoons are harder than onion
+Response:  C) The option that goes Against Common Sense, as it implies cutting something hard like metal"
+0," The man who flies a plane is called a conductor.
+Options:
+A. The train can take you to the plane.
+B. You can find good service on a plane.
+C. Conductors operate trains.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The man who flies a plane is called a conductor.
+Options:
+A. The train can take you to the plane.
+B. You can find good service on a plane.
+C. Conductors operate trains.
+Response:  C)Conductors operate trains"
+0," He is wearing gloves on his feet.
+Options:
+A. both feet and hands are human body parts.
+B. both feet and hands need covering during the cold season.
+C. gloves are only designed to wear on hands.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He is wearing gloves on his feet.
+Options:
+A. both feet and hands are human body parts.
+B. both feet and hands need covering during the cold season.
+C. gloves are only designed to wear on hands.
+Response:  C) Gloves were originally made for hand protection, not foot coverage; therefore option (c)."
+0," Grizzly bears hate honey.
+Options:
+A. Grizzly bears have been observed taking stings from swarms of bees to access honey.
+B. Honey is good for grizzly bear's growth
+C. Bees cannot eat grizzly bears","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Grizzly bears hate honey.
+Options:
+A. Grizzly bears have been observed taking stings from swarms of bees to access honey.
+B. Honey is good for grizzly bear's growth
+C. Bees cannot eat grizzly bears
+Response:  A"
+0," He left the cat in the kennel.
+Options:
+A. the kennel is the home for dogs
+B. A cat can't stay in a kennel because dogs and cats hate each other.
+C. there are kennels and cats","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He left the cat in the kennel.
+Options:
+A. the kennel is the home for dogs
+B. A cat can't stay in a kennel because dogs and cats hate each other.
+C. there are kennels and cats
+Response:  B"
+0," Traveling by teleporting can take quite a long time.
+Options:
+A. it is impossible to travel by teleporting.
+B. Teleporting sounds fantastic
+C. when traveling, he is reading a book about teleporting","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Traveling by teleporting can take quite a long time.
+Options:
+A. it is impossible to travel by teleporting.
+B. Teleporting sounds fantastic
+C. when traveling, he is reading a book about teleporting
+Response:  B - It's not uncommon for people who are interested in science fiction and technology advanc"
+0," The frog has claws and a stinger on its tail.
+Options:
+A. Frogs typically lay their eggs in water
+B. A frog is short-bodied, tailless amphibians
+C. Frogs are valued as food by humans","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The frog has claws and a stinger on its tail.
+Options:
+A. Frogs typically lay their eggs in water
+B. A frog is short-bodied, tailless amphibians
+C. Frogs are valued as food by humans
+Response:  B - This option states that frogs have no tails at all which contradicts with what we"
+0," peoples use a handkerchief for eyes while the bike rides
+Options:
+A. handkerchief has multiple colors
+B. We can not make rides while people using the handkerchief for their eyes
+C. handkerchief can be made by cotton","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  peoples use a handkerchief for eyes while the bike rides
+Options:
+A. handkerchief has multiple colors
+B. We can not make rides while people using the handkerchief for their eyes
+C. handkerchief can be made by cotton
+Response:  B"
+0," Thanks for giving days starts the new year
+Options:
+A. July is right after Thanksgiving days
+B. January starts the new year
+C. Black Friday is more important than Thanksgiving","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Thanks for giving days starts the new year
+Options:
+A. July is right after Thanksgiving days
+B. January starts the new year
+C. Black Friday is more important than Thanksgiving
+Response:  B - The correct answer choice, as it goes counter to our commonly held belief that a New Year"
+0," The counter fell off the lamp
+Options:
+A. The counter shot the lamp instead
+B. The counter is too big and fixed in place
+C. The counter remains on top of the lamp","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The counter fell off the lamp
+Options:
+A. The counter shot the lamp instead
+B. The counter is too big and fixed in place
+C. The counter remains on top of the lamp
+Response:  C)The counter stays with the light"
+0," He can cook a whole elephant in a frying pan
+Options:
+A. the Whole Elephant is bigger than a pan
+B. elephants do not know how to cook
+C. an elephant can not lift a frying pan","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He can cook a whole elephant in a frying pan
+Options:
+A. the Whole Elephant is bigger than a pan
+B. elephants do not know how to cook
+C. an elephant can not lift a frying pan
+Response:  C) An elephant cannot lifting a Fryin Pan"
+0," Rocks may float when placed in water.
+Options:
+A. Rocks are always denser than water.
+B. Rocks can be visible on streams of water.
+C. Rocks are often found in the water.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Rocks may float when placed in water.
+Options:
+A. Rocks are always denser than water.
+B. Rocks can be visible on streams of water.
+C. Rocks are often found in the water.
+Response:  C) Rock's might sometimes find their way into bodies of waters, but they will not typically"
+0," he likes to drink motor oil
+Options:
+A. he will die if he drinks motor oil
+B. he goes to buy motor oil after drinking
+C. The motor oil is too cold for the car","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  he likes to drink motor oil
+Options:
+A. he will die if he drinks motor oil
+B. he goes to buy motor oil after drinking
+C. The motor oil is too cold for the car
+Response:  A) He Will Die If He Drinks Motor Oil"
+0," The bowling ball is swimming in the pond.
+Options:
+A. Bowling balls cannot swim, because they don't have fins.
+B. Bowling balls are heavy and sink.
+C. A bowling ball can be polished.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The bowling ball is swimming in the pond.
+Options:
+A. Bowling balls cannot swim, because they don't have fins.
+B. Bowling balls are heavy and sink.
+C. A bowling ball can be polished.
+Response:  B - This option correctly identifies that a bowling ball will not float on water due to its"
+0," He put bricks in the oven for baking
+Options:
+A. Bricks are made up of clay, used for building congratulations
+B. Bricks are baked in a big furnace, not in the oven
+C. Bricks is not an eating item","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He put bricks in the oven for baking
+Options:
+A. Bricks are made up of clay, used for building congratulations
+B. Bricks are baked in a big furnace, not in the oven
+C. Bricks is not an eating item
+Response:  B -Bricks are burned-in a large kiln rather than being cooking inside an"
+0," he kept his prized horse in his pocket and had it taken care by a florist
+Options:
+A. this pocket is made from horsehide
+B. a horse doesn't fit in a pocket
+C. a florist kept his prized flowers in his pocket","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  he kept his prized horse in his pocket and had it taken care by a florist
+Options:
+A. this pocket is made from horsehide
+B. a horse doesn't fit in a pocket
+C. a florist kept his prized flowers in his pocket
+Response:  C) A flower shopkeeper keeps horses in their pockets, not vice versa!"
+0," It might rain later today,  be sure to grab your breakfast before you leave.
+Options:
+A. Breakfast is a meal,  it will not keep you dry from rain.
+B. Breakfast is eaten in the morning,  but lunch is a meal you eat later in the day.
+C. It won't rain until tomorrow,  not today.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  It might rain later today,  be sure to grab your breakfast before you leave.
+Options:
+A. Breakfast is a meal,  it will not keep you dry from rain.
+B. Breakfast is eaten in the morning,  but lunch is a meal you eat later in the day.
+C. It won't rain until tomorrow,  not today.
+Response:  C)It wont Rain till Tomarrow"
+0," We do not use the internet in today's generation.
+Options:
+A. the Internet is not created today
+B. Today there are some people trying to make the Internet more useful
+C. the Internet is a helpful tool which is widely used today.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  We do not use the internet in today's generation.
+Options:
+A. the Internet is not created today
+B. Today there are some people trying to make the Internet more useful
+C. the Internet is a helpful tool which is widely used today.
+Response:  C) The Internet has become an essential part of our daily lives and it would be uncommon for"
+0," There are top hats in the freezer
+Options:
+A. Top hats should be kept at room temperature
+B. she wears a top hat and goes to buy a refrige
+C. the top hat has the same color as the refrige","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  There are top hats in the freezer
+Options:
+A. Top hats should be kept at room temperature
+B. she wears a top hat and goes to buy a refrige
+C. the top hat has the same color as the refrige
+Response:  C) The top hat does not have any relation with the fridge, it's just n"
+0," Most people sleep in a shoe.
+Options:
+A. A human is larger than a shoe.
+B. Socks are soft and cleaner than dirty hard shoes
+C. He wears shoes while sleeping.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Most people sleep in a shoe.
+Options:
+A. A human is larger than a shoe.
+B. Socks are soft and cleaner than dirty hard shoes
+C. He wears shoes while sleeping.
+Response:  C) The person sleeps with their feet inside of them, not on top of it!"
+0," Many ships are sunk when they enter Canada.
+Options:
+A. I can hear the Canadian national anthem.
+B. Canadian ships are famous all over the world
+C. Ships require water to sink, and Canada is land.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Many ships are sunk when they enter Canada.
+Options:
+A. I can hear the Canadian national anthem.
+B. Canadian ships are famous all over the world
+C. Ships require water to sink, and Canada is land.
+Response:  C)Ships do not need any special requirements other than being in a body of saltwater for"
+0," the fish is fishing
+Options:
+A. the man fishes all day and gain a lot of fishes
+B. fish does not how to fish
+C. some people do not like fishing","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  the fish is fishing
+Options:
+A. the man fishes all day and gain a lot of fishes
+B. fish does not how to fish
+C. some people do not like fishing
+Response:  C) Some People Do Not Like Fishing"
+0," He put the basketball inside a cup
+Options:
+A. The basketball is bigger than the cup
+B. People can buy basketballs and cups in supermarkets
+C. There is an image of basketball on the cup","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He put the basketball inside a cup
+Options:
+A. The basketball is bigger than the cup
+B. People can buy basketballs and cups in supermarkets
+C. There is an image of basketball on the cup
+Response:  B - people cannot purchase balls, including basketsballs ,in grocery stores;"
+0," The last thing you do when you leave the home is curling your hair.
+Options:
+A. you leave the home to curl your hair
+B. There are many things to do before you curl your hair
+C. Curling your hair would be something you do before you leave the home.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The last thing you do when you leave the home is curling your hair.
+Options:
+A. you leave the home to curl your hair
+B. There are many things to do before you curl your hair
+C. Curling your hair would be something you do before you leave the home.
+Response:  C) It goes counterintuitively with what most people think, that one wouldn't want"
+0," She washed the car in the sink.
+Options:
+A. A car is bigger than a sink.
+B. Cars are usually dry while the sinks are wet.
+C. A car can not wash a dish.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She washed the car in the sink.
+Options:
+A. A car is bigger than a sink.
+B. Cars are usually dry while the sinks are wet.
+C. A car can not wash a dish.
+Response:  B - The correct answer choice for this question would be option (B): “Car’s are"
+0," the baby held a grizzly bear
+Options:
+A. a grizzly bear is bigger than a baby
+B. a baby would be eaten by a grizzly bear
+C. a grizzly baby bear is cute","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  the baby held a grizzly bear
+Options:
+A. a grizzly bear is bigger than a baby
+B. a baby would be eaten by a grizzly bear
+C. a grizzly baby bear is cute
+Response:  B - A Baby Would Be Eaten By A Grizzly Bear"
+0," She hung a post-it note on her pin-board using a cockroach
+Options:
+A. Cockroaches are difficult to kill
+B. Cockroaches cannot be used to hang up post-it notes on pin-boards
+C. You cannot hang a post-it note on a pin-board","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She hung a post-it note on her pin-board using a cockroach
+Options:
+A. Cockroaches are difficult to kill
+B. Cockroaches cannot be used to hang up post-it notes on pin-boards
+C. You cannot hang a post-it note on a pin-board
+Response:  B"
+0," It was an August morning when Jessica,  a receptionist living in Toronto,  decided to wear her snowsuit to work.
+Options:
+A. Receptionists don't wear snowsuits to work,  and people do not generally wear snowsuits in August.
+B. Toronto has a lot of snow during the winter
+C. Snowsuits can make you very warm","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  It was an August morning when Jessica,  a receptionist living in Toronto,  decided to wear her snowsuit to work.
+Options:
+A. Receptionists don't wear snowsuits to work,  and people do not generally wear snowsuits in August.
+B. Toronto has a lot of snow during the winter
+C. Snowsuits can make you very warm
+Response:  A"
+0," He flew the airplane to Jupiter
+Options:
+A. Airplanes cannot fly in space
+B. Airplanes occasionally offer snacks during travel
+C. Airplanes taxi on the runway before takeoff","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He flew the airplane to Jupiter
+Options:
+A. Airplanes cannot fly in space
+B. Airplanes occasionally offer snacks during travel
+C. Airplanes taxi on the runway before takeoff
+Response:  A"
+0," The sky is underground
+Options:
+A. The underground has a different color with the sky
+B. There is an underground club named sky
+C. The sky is always above the ground","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The sky is underground
+Options:
+A. The underground has a different color with the sky
+B. There is an underground club named sky
+C. The sky is always above the ground
+Response:  C)The Sky Is Always Above Ground"
+0," Its cooler in Arizona than anywhere in the USA.
+Options:
+A. Arizona is mostly all desert and hot
+B. Arizona is always sunshine
+C. he met a hot lady in Arizona","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Its cooler in Arizona than anywhere in the USA.
+Options:
+A. Arizona is mostly all desert and hot
+B. Arizona is always sunshine
+C. he met a hot lady in Arizona
+Response:  C) He Met A Hot Lady In Arizona"
+0," A graphics tablet enables VR games to be played on a computer
+Options:
+A. Designers can use graphics tablets to make VR games
+B. A graphics tablet does not process game graphics and will not display in VR
+C. There will be VR graphics tablet in the future","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  A graphics tablet enables VR games to be played on a computer
+Options:
+A. Designers can use graphics tablets to make VR games
+B. A graphics tablet does not process game graphics and will not display in VR
+C. There will be VR graphics tablet in the future
+Response:  B - Graphics Tablets do Not Process Game Graphic, Will No Display In Virtual Reality"
+0," My sister visited art museum with her zebra
+Options:
+A. Some museums exhibit paintings with zebra
+B. there are zebra crossings in the art museum
+C. Animals are forbidden to enter the museum","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  My sister visited art museum with her zebra
+Options:
+A. Some museums exhibit paintings with zebra
+B. there are zebra crossings in the art museum
+C. Animals are forbidden to enter the museum
+Response:  C)Animals are forbiden from entering a musuem"
+0," the library has only one storybook
+Options:
+A. the library contains not only storybooks but other types books
+B. the library has a lot of useful books
+C. He bought a book from that library","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  the library has only one storybook
+Options:
+A. the library contains not only storybooks but other types books
+B. the library has a lot of useful books
+C. He bought a book from that library
+Response:  A) The Library Contains Not Only StoryBooks But Other Types Of Books Is Against Common"
+0," Jack lost his giraffe
+Options:
+A. a person can meet with giraffes in the zoo
+B. commons don't have giraffes
+C. a giraffe will not eat meat","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Jack lost his giraffe
+Options:
+A. a person can meet with giraffes in the zoo
+B. commons don't have giraffes
+C. a giraffe will not eat meat
+Response:  B - Commonly, people do no own personal pet animals like Giraffes and it would"
+0," Dogs can come in many different colors such as red, blue, and green.
+Options:
+A. Different people like different breeds of dogs�
+B. Dogs can run.
+C. Almost no dogs have bright colors","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Dogs can come in many different colors such as red, blue, and green.
+Options:
+A. Different people like different breeds of dogs�
+B. Dogs can run.
+C. Almost no dogs have bright colors
+Response:  C"
+0," She put an ice cream in the oven.
+Options:
+A. if you put ice cream in the oven, it melts.
+B. ice cream has different color with the oven
+C. ice cream is smaller than oven","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She put an ice cream in the oven.
+Options:
+A. if you put ice cream in the oven, it melts.
+B. ice cream has different color with the oven
+C. ice cream is smaller than oven
+Response:  A) If she puts Ice Cream In The Oven"
+0," TORTOISE RUNS FASTER THAN CAT
+Options:
+A. cats are always living on the land, and tortoise sometimes are living in the water
+B. Both cats and tortoises are animals
+C. Tortoise runs very slow, but cats run very fast","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  TORTOISE RUNS FASTER THAN CAT
+Options:
+A. cats are always living on the land, and tortoise sometimes are living in the water
+B. Both cats and tortoises are animals
+C. Tortoise runs very slow, but cats run very fast
+Response:  B) both cat's an dturtle 're animal"
+0," He put a motorcycle in his wallet
+Options:
+A. I have a large motorcycle in my garage
+B. A motorcycle is bigger than a wallet
+C. Wallets can be used to keep money","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He put a motorcycle in his wallet
+Options:
+A. I have a large motorcycle in my garage
+B. A motorcycle is bigger than a wallet
+C. Wallets can be used to keep money
+Response:  B - Motorcycles are generally larger and more bulky compared with standard-sized items that"
+0," Video games are not fun
+Options:
+A. Video games are fun because it's a source of entertainment
+B. Video games can turn you into a 3D object
+C. Video games can turn you into a vampire bat","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Video games are not fun
+Options:
+A. Video games are fun because it's a source of entertainment
+B. Video games can turn you into a 3D object
+C. Video games can turn you into a vampire bat
+Response:  A"
+0," She was drinking from a plate
+Options:
+A. the plate was round
+B. the plate was white
+C. a plate is flat","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She was drinking from a plate
+Options:
+A. the plate was round
+B. the plate was white
+C. a plate is flat
+Response:  C) A plate is generally considered to be flat, so this option goes Against Common Sense"
+0," My car is going to the church service
+Options:
+A. Cars do not attend church services
+B. Not everyone goes to church
+C. A car needs to be driven","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  My car is going to the church service
+Options:
+A. Cars do not attend church services
+B. Not everyone goes to church
+C. A car needs to be driven
+Response:  B -Not Everyone Goes To Church"
+0," She was interviewed after she got the offer
+Options:
+A. She was excited to get the offer
+B. Interview is important
+C. The interview comes earlier than the offer","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She was interviewed after she got the offer
+Options:
+A. She was excited to get the offer
+B. Interview is important
+C. The interview comes earlier than the offer
+Response:  C - It goes Against Common Sense!"
+0," if he is retarded,  he will pass the examination
+Options:
+A. passing examination is very easy for some
+B. examination is conducted to screen retards
+C. some people always pass in examination","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  if he is retarded,  he will pass the examination
+Options:
+A. passing examination is very easy for some
+B. examination is conducted to screen retards
+C. some people always pass in examination
+Response:  B (examination is conducte dto screemretard)"
+0," we drove our car for 40000 miles before having to stop for an oil refill
+Options:
+A. we stop to refill our car by oil
+B. our car drove us for miles before having to stop to oil us
+C. no car in the world can have so long miles of autonomy","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  we drove our car for 40000 miles before having to stop for an oil refill
+Options:
+A. we stop to refill our car by oil
+B. our car drove us for miles before having to stop to oil us
+C. no car in the world can have so long miles of autonomy
+Response:  C) No Car In The World Can Have So Long Miles Of Autonomous Driving"
+0," The woman had her hair cut at the hardware store.
+Options:
+A. A hardware store can't fit inside a hair salon.
+B. A woman can't get her hair cut by a hardware store employee's name tag.
+C. Hardware stores don't cut people's hair.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The woman had her hair cut at the hardware store.
+Options:
+A. A hardware store can't fit inside a hair salon.
+B. A woman can't get her hair cut by a hardware store employee's name tag.
+C. Hardware stores don't cut people's hair.
+Response:  C) Hardware stores don’t cut people’s hair"
+0," You are likely to find Rice bags in shoe shops
+Options:
+A. Rice bags will be available in Grocery shops rather than shoe shops
+B. Rice is white and shoes are of leather
+C. Rice bags are usually bigger than shoes","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  You are likely to find Rice bags in shoe shops
+Options:
+A. Rice bags will be available in Grocery shops rather than shoe shops
+B. Rice is white and shoes are of leather
+C. Rice bags are usually bigger than shoes
+Response:  A"
+0," She came off walking across the Pacific ocean
+Options:
+A. Walking besides water may wet your shoes
+B. It's impossible to walk on the water
+C. Frog-mans can walking under the water","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She came off walking across the Pacific ocean
+Options:
+A. Walking besides water may wet your shoes
+B. It's impossible to walk on the water
+C. Frog-mans can walking under the water
+Response:  B - Its Impossible To Walk On Water"
+0," A rainbow can appear on the ground
+Options:
+A. Rainbows appear as an arc of many colors
+B. A rainbow is not an object and cannot be physically approached
+C. A rainbow occurs in the sky","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  A rainbow can appear on the ground
+Options:
+A. Rainbows appear as an arc of many colors
+B. A rainbow is not an object and cannot be physically approached
+C. A rainbow occurs in the sky
+Response:  B - The correct answer choice for this question would likely depend upon one's understanding, definition,"
+0," Birds do not fly
+Options:
+A. Most the birds can fly, but sheep can not
+B. Sheep are not birds
+C. Sheep and birds are animals","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Birds do not fly
+Options:
+A. Most the birds can fly, but sheep can not
+B. Sheep are not birds
+C. Sheep and birds are animals
+Response:  C) The idea that all of a sudden sheeps cannot flight goes counter to typical knowledge since it"
+0," she threw the football to the batter
+Options:
+A. footballs are oddly shaped
+B. there are no batters in football games
+C. the batter likes to kick the ball","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  she threw the football to the batter
+Options:
+A. footballs are oddly shaped
+B. there are no batters in football games
+C. the batter likes to kick the ball
+Response:  B - There Are No Batters In Football Games"
+0," You are unlikely to ever find a book in the library.
+Options:
+A. libraries are made to hold books and that is the reason they exist.
+B. Librarians work with a lot of books
+C. some libraries also sell books","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  You are unlikely to ever find a book in the library.
+Options:
+A. libraries are made to hold books and that is the reason they exist.
+B. Librarians work with a lot of books
+C. some libraries also sell books
+Response:  The correct answer would be ( A) because it goes Against Common Sense . While its true"
+0," He put a snake on pizza.
+Options:
+A. A snake usually lives on the forest while pizza is made by humans
+B. A snake is an animal while pizza is comfort food
+C. A snake cannot eat a pizza,","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He put a snake on pizza.
+Options:
+A. A snake usually lives on the forest while pizza is made by humans
+B. A snake is an animal while pizza is comfort food
+C. A snake cannot eat a pizza,
+Response:  C) A snake cannot eat a pizza"
+0," I sliced the strong meat with my Kitchen spoon.
+Options:
+A. Spoons are not used for slicing food like a knife.
+B. A spoon can hold some liquid while a knife cannot.
+C. A spoon is not sharp and can be used by babies but not so with a knife.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  I sliced the strong meat with my Kitchen spoon.
+Options:
+A. Spoons are not used for slicing food like a knife.
+B. A spoon can hold some liquid while a knife cannot.
+C. A spoon is not sharp and can be used by babies but not so with a knife.
+Response:  C) A spoon is not sharp, which means it will bluntly cut through something rather"
+0," The giraffe likes to ride  bicycle
+Options:
+A. giraffes have legs and bicycles have wheels
+B. Giraffes are living creatures and bicycles are not
+C. bicycles are designed for humans","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The giraffe likes to ride  bicycle
+Options:
+A. giraffes have legs and bicycles have wheels
+B. Giraffes are living creatures and bicycles are not
+C. bicycles are designed for humans
+Response:  B -Giraffes are Living Creature, And Bike Are Not"
+0," She started a fire in the fridge.
+Options:
+A. Fridges are cold, while fires are hot.
+B. She shouldn't start a fire in the fridge.
+C. Fridges cannot fly.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She started a fire in the fridge.
+Options:
+A. Fridges are cold, while fires are hot.
+B. She shouldn't start a fire in the fridge.
+C. Fridges cannot fly.
+Response:  B - It goes Against Common Sense to Start A Fire In The Fridge"
+0," School is where animals go to dance
+Options:
+A. animals don't go to school
+B. Some animals don't like to dance
+C. animals are displayed in that school","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  School is where animals go to dance
+Options:
+A. animals don't go to school
+B. Some animals don't like to dance
+C. animals are displayed in that school
+Response:  B -Some Animals Don’t Like To Dance"
+0," Drinking beers makes the girl become an alien
+Options:
+A. beers are nice to drink at the pub
+B. some people believe that there are some aliens
+C. there is no evidence that aliens existed","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Drinking beers makes the girl become an alien
+Options:
+A. beers are nice to drink at the pub
+B. some people believe that there are some aliens
+C. there is no evidence that aliens existed
+Response:  C) There's No Evidence That Aliens Existed"
+0," if you want to have a pear then you should go to the toilet
+Options:
+A. having a pear in the toilet is disgusting
+B. the toilet is white while the pear is green
+C. there is no pear in the toilet","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  if you want to have a pear then you should go to the toilet
+Options:
+A. having a pear in the toilet is disgusting
+B. the toilet is white while the pear is green
+C. there is no pear in the toilet
+Response:  C) There's No Pear In The Toilet"
+0," Colgate is a brand of beer
+Options:
+A. I have never heard of the word Colgate
+B. Colgate is a popular brand of oral hygiene products,  not beer
+C. I look up the word collage in the dictionary","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Colgate is a brand of beer
+Options:
+A. I have never heard of the word Colgate
+B. Colgate is a popular brand of oral hygiene products,  not beer
+C. I look up the word collage in the dictionary
+Response:  B -Col gate Is A Popular Brand Of Oral Hygien Products Not Bee"
+0," She made a clown make a shirt
+Options:
+A. Clowns don't make shirts for a living
+B. Clowns don't have opposable thumbs
+C. clowns don't like this shirt","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She made a clown make a shirt
+Options:
+A. Clowns don't make shirts for a living
+B. Clowns don't have opposable thumbs
+C. clowns don't like this shirt
+Response:  B - This option states that clowns do not possess any of their physical characteristics, which are"
+0," For Lunch, I made an armadillo sandwich for my husband.
+Options:
+A. armadillo meat isn't sold at the grocery store.
+B. The word armadillo means ""little armored one"" in Spanish
+C. Armadillos are New World placental mammals in the order Cingulata.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  For Lunch, I made an armadillo sandwich for my husband.
+Options:
+A. armadillo meat isn't sold at the grocery store.
+B. The word armadillo means ""little armored one"" in Spanish
+C. Armadillos are New World placental mammals in the order Cingulata.
+Response:  B)The Word 'Armadillo Means Little Armed One In spanish'. This choice"
+0," I wore a notebook to work.
+Options:
+A. A notebook isn't worn.
+B. notebooks are white.
+C. The notebook is for work","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  I wore a notebook to work.
+Options:
+A. A notebook isn't worn.
+B. notebooks are white.
+C. The notebook is for work
+Response:  C)The Notebook Is For Work"
+0," An old car is expensive.
+Options:
+A. An old car can be repaired.
+B. An old car might have a lot of miles so it should be more affordable.
+C. An old car was built on the assembly line.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  An old car is expensive.
+Options:
+A. An old car can be repaired.
+B. An old car might have a lot of miles so it should be more affordable.
+C. An old car was built on the assembly line.
+Response:  B - The option that goes Against Common Sense, an Old Car Might Have A Lot"
+0," if you want fresh fruits and vegetables, you should destroy them
+Options:
+A. you will get nothing after destroying the fruits and vegetables
+B. the fruits and vegetables are sold in the supermarket
+C. severe weather can destroy fresh fruits and vegetables","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  if you want fresh fruits and vegetables, you should destroy them
+Options:
+A. you will get nothing after destroying the fruits and vegetables
+B. the fruits and vegetables are sold in the supermarket
+C. severe weather can destroy fresh fruits and vegetables
+Response:  C) Severe Weather Can Destroy Fresh Fruit And Vegetable"
+0," I want a dirty house
+Options:
+A. His house is really dirty
+B. No one wants to live in a dirty house
+C. People needs to clean their dirty houses","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  I want a dirty house
+Options:
+A. His house is really dirty
+B. No one wants to live in a dirty house
+C. People needs to clean their dirty houses
+Response:  B -No One Wants To Live In A Dirty House- This option goes Against Common"
+0," Cat runs faster than a cheetah
+Options:
+A. The cheetah is an atypical member of the cat family
+B. The Cat That Looks Like A Cheetah
+C. The cheetah is the world's fastest land animal","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Cat runs faster than a cheetah
+Options:
+A. The cheetah is an atypical member of the cat family
+B. The Cat That Looks Like A Cheetah
+C. The cheetah is the world's fastest land animal
+Response:  B -TheCatThatLooksLikeACheetaht"
+0," All mammals have fingerprints.
+Options:
+A. Mammals are warm-blooded animals, and most of them have some type of hair on their bodies.
+B. Some animals even not have fingers
+C. Fingerprints are a good way to catch a criminal.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  All mammals have fingerprints.
+Options:
+A. Mammals are warm-blooded animals, and most of them have some type of hair on their bodies.
+B. Some animals even not have fingers
+C. Fingerprints are a good way to catch a criminal.
+Response:  C) It goes counterintuitively with our understanding that criminals often try hardest efforts in"
+0," If it is a sunny day, you would have gotten wet
+Options:
+A. Usually a sunny day don't cause to wet
+B. People prefer to walk during a sunny day
+C. People feel mess if they are wet","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  If it is a sunny day, you would have gotten wet
+Options:
+A. Usually a sunny day don't cause to wet
+B. People prefer to walk during a sunny day
+C. People feel mess if they are wet
+Response:  A) usually a Sunny Day doesn’t make one get Wet"
+0," she ran toward the dangerous-looking man in the alley
+Options:
+A. it is scary when something dangerous is moving toward you
+B. you can move away from danger quickly or slowly
+C. it is prudent to move away from danger","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  she ran toward the dangerous-looking man in the alley
+Options:
+A. it is scary when something dangerous is moving toward you
+B. you can move away from danger quickly or slowly
+C. it is prudent to move away from danger
+Response:  C) It's not uncommon for people who are being threatened, harassed ,or"
+0," Cats played cards last night.
+Options:
+A. I don't have cats and cards
+B. I have two cats.
+C. Cards is a game for people play.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Cats played cards last night.
+Options:
+A. I don't have cats and cards
+B. I have two cats.
+C. Cards is a game for people play.
+Response:  The correct answer would be (C) because it goes Against Common Sense that cats can"
+0," Leafs are useless
+Options:
+A. Leafs are always green
+B. Leafs are an essential element to make food in plants
+C. We can see many leaves in one plant","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Leafs are useless
+Options:
+A. Leafs are always green
+B. Leafs are an essential element to make food in plants
+C. We can see many leaves in one plant
+Response:  B - The correct answer choice for this question would be option (B) because it goes Against"
+0," you can go swimming and fishing at a zoo
+Options:
+A. you can drive a car to the zoo
+B. some fish are swimming in a zoo
+C. there is no place for swimming in a zoo","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  you can go swimming and fishing at a zoo
+Options:
+A. you can drive a car to the zoo
+B. some fish are swimming in a zoo
+C. there is no place for swimming in a zoo
+Response:  C) There's No Place For Swimming In A Zoo"
+0," Elephants life at the north-pole.
+Options:
+A. Elephants do not like penguins.
+B. Elephants live in warm regions.
+C. Elephants are grey and can not hide in the snow.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Elephants life at the north-pole.
+Options:
+A. Elephants do not like penguins.
+B. Elephants live in warm regions.
+C. Elephants are grey and can not hide in the snow.
+Response:  C) The elephant's gray color makes it difficult for them to blend into their"
+0," I decided to pack my microwave into my suitcase
+Options:
+A. my suitcase is leopard and my microwave is yellow
+B. I plan to cook my pizza rolls in the microwave
+C. no one takes their kitchen appliances on vacation with them","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  I decided to pack my microwave into my suitcase
+Options:
+A. my suitcase is leopard and my microwave is yellow
+B. I plan to cook my pizza rolls in the microwave
+C. no one takes their kitchen appliances on vacation with them
+Response:  C) No One Takes Their Kitchen Appliance On Vacations With Them - This"
+0," Doctors do not have to study too much
+Options:
+A. there are many doctors
+B. the doctor did not study well in campus
+C. Medicine is a difficult course and study is needed","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Doctors do not have to study too much
+Options:
+A. there are many doctors
+B. the doctor did not study well in campus
+C. Medicine is a difficult course and study is needed
+Response:  C) medicine is a challenging field that requires extensive studying, so it goes counterintuitive"
+0," A brave cat saved a drowning child this morning at Zion Beach!
+Options:
+A. Many people like cats
+B. Cats dislike water.
+C. Cats have four legs.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  A brave cat saved a drowning child this morning at Zion Beach!
+Options:
+A. Many people like cats
+B. Cats dislike water.
+C. Cats have four legs.
+Response:  B - Cats Dislike Water"
+0," He put a giraffe in the pantry.
+Options:
+A. A giraffe is too tall to be put in a pantry.
+B. Giraffes look different from pantries.
+C. A giraffe has a life but a pantry doesn't.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He put a giraffe in the pantry.
+Options:
+A. A giraffe is too tall to be put in a pantry.
+B. Giraffes look different from pantries.
+C. A giraffe has a life but a pantry doesn't.
+Response:  C) A giraffe has a life, while a pantry does not"
+0," It was very hot,  so she put on her snowsuit and then ran and jumped into the pool.
+Options:
+A. Usually, snowsuits will have a discount on hot days
+B. Snowsuits are too warm to wear in the heat.
+C. People don't swim in a snowsuit.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  It was very hot,  so she put on her snowsuit and then ran and jumped into the pool.
+Options:
+A. Usually, snowsuits will have a discount on hot days
+B. Snowsuits are too warm to wear in the heat.
+C. People don't swim in a snowsuit.
+Response:  C) people do not typically swim while wearing snow suits because they were designed for cold"
+0," I close my eyes to drive safely
+Options:
+A. driving and closing eyes are related to one and other
+B. safely close your eyes to drive safely and go early
+C. you cant be safe when you close your eyes while driving","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  I close my eyes to drive safely
+Options:
+A. driving and closing eyes are related to one and other
+B. safely close your eyes to drive safely and go early
+C. you cant be safe when you close your eyes while driving
+Response:  C) You can't be safe if you close your eyes while driving, as it goes against"
+0," my boyfriend drinks diesel after breakfast every day
+Options:
+A. diesel is put in cars
+B. diesel is expensive now
+C. diesel can kill you if you drink it","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  my boyfriend drinks diesel after breakfast every day
+Options:
+A. diesel is put in cars
+B. diesel is expensive now
+C. diesel can kill you if you drink it
+Response:  C) Diesel cannot be drunk as a liquid and will not provide any nutritional value"
+0," I and the goats had a nice barbecue yesterday
+Options:
+A. goats don't eat meat
+B. Some people barbecue every day
+C. You can barbecue goat meat","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  I and the goats had a nice barbecue yesterday
+Options:
+A. goats don't eat meat
+B. Some people barbecue every day
+C. You can barbecue goat meat
+Response:  C) you could barbecue goat meat"
+0," There are whales in a big city
+Options:
+A. There are trees in a big city
+B. Whales are precious
+C. Whales live in the ocean","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  There are whales in a big city
+Options:
+A. There are trees in a big city
+B. Whales are precious
+C. Whales live in the ocean
+Response:  C) While it may seem counterintuitive, there actually have been instances of beached and"
+0," she put the ice cream in the oven
+Options:
+A. the ice cream will melt in the oven
+B. the ice cream is soft while the oven is hard
+C. the oven is usually bigger than the ice cream","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  she put the ice cream in the oven
+Options:
+A. the ice cream will melt in the oven
+B. the ice cream is soft while the oven is hard
+C. the oven is usually bigger than the ice cream
+Response:  A) The Ice Cream Will Melt In Oven"
+0," The vegetarian ate a big dinner of horse meat and vegetables from the garden.
+Options:
+A. Vegetarians don't eat meat.
+B. Horsemeat does not grow in a garden.
+C. Even carnivores don't eat horse meat.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The vegetarian ate a big dinner of horse meat and vegetables from the garden.
+Options:
+A. Vegetarians don't eat meat.
+B. Horsemeat does not grow in a garden.
+C. Even carnivores don't eat horse meat.
+Response:  C) Even carnivore doe snot eats horses meals"
+0," London goes in this bus.
+Options:
+A. London being a city will not move.
+B. London cannot fit into a bus.
+C. London people are familiar with the red bus.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  London goes in this bus.
+Options:
+A. London being a city will not move.
+B. London cannot fit into a bus.
+C. London people are familiar with the red bus.
+Response:  C)London People Are Familiar With The Red Bus Is Against Common Sense As There"
+0," Alcoholic drinks are served in bowls.
+Options:
+A. Alcohol is a liquid party drink drunken from the large mixing bowl
+B. Mixing bowls hold a lot of Alcohol but should be served in cups
+C. Alcoholic drinks are served in red cups","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Alcoholic drinks are served in bowls.
+Options:
+A. Alcohol is a liquid party drink drunken from the large mixing bowl
+B. Mixing bowls hold a lot of Alcohol but should be served in cups
+C. Alcoholic drinks are served in red cups
+Response:  B - Mixing Bowls Hold A Lot Of alcohol But Should Be Served In Cups"
+0," he went up a valley
+Options:
+A. There is grass in the valley
+B. the valley is big
+C. valley is a depression","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  he went up a valley
+Options:
+A. There is grass in the valley
+B. the valley is big
+C. valley is a depression
+Response:  C) Valley Is A Depression"
+0," the fire is cold
+Options:
+A. fire is both useful and dangerous to man
+B. the temperature of the fire is high
+C. a fire crackled on the hearth","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  the fire is cold
+Options:
+A. fire is both useful and dangerous to man
+B. the temperature of the fire is high
+C. a fire crackled on the hearth
+Response:  B - The temperature of the Fire Is High"
+0," If you do your job badly, you will get paid regardless
+Options:
+A. doing different jobs will get different paid
+B. Getting paid requires doing a good job
+C. People want to work harder to get more paid","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  If you do your job badly, you will get paid regardless
+Options:
+A. doing different jobs will get different paid
+B. Getting paid requires doing a good job
+C. People want to work harder to get more paid
+Response:  B - getting paid relies on performing well at task"
+0," You are likely to find chocolate in the wild.
+Options:
+A. Chocolate is tasty and loved by children
+B. Chocolate is a kind of food made by a human so it doesn't exist in the wild
+C. There are all kinds of creatures in the wild","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  You are likely to find chocolate in the wild.
+Options:
+A. Chocolate is tasty and loved by children
+B. Chocolate is a kind of food made by a human so it doesn't exist in the wild
+C. There are all kinds of creatures in the wild
+Response:  B - This option states that because humans make chocolate, there isn’t any reason you"
+0," a bulb is used to cool the room
+Options:
+A. a bulb is round in shape
+B. a bulb is used to brighten the room
+C. bulbs are common in a room","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  a bulb is used to cool the room
+Options:
+A. a bulb is round in shape
+B. a bulb is used to brighten the room
+C. bulbs are common in a room
+Response:  C) Bulbs are not commonly found inside rooms, they're typically located outside for lighting"
+0," I just deposited ten tigers in the banks and will get doubled in six years.
+Options:
+A. The name of the bank is Tiger of India
+B. We can deposit only money and gold in the bank.
+C. The tiger ran into the bank","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  I just deposited ten tigers in the banks and will get doubled in six years.
+Options:
+A. The name of the bank is Tiger of India
+B. We can deposit only money and gold in the bank.
+C. The tiger ran into the bank
+Response:  C)The tiger ran into the bank"
+0," Going to the movie is fun for animals.
+Options:
+A. Movies are where you can see films.
+B. Animals don't go to the movies.
+C. Some movies are only for adults.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Going to the movie is fun for animals.
+Options:
+A. Movies are where you can see films.
+B. Animals don't go to the movies.
+C. Some movies are only for adults.
+Response:  B -Animals do not watch motion pictures because they lack cognitive abilities and cannot comprehend"
+0," My neighbor is a fish.
+Options:
+A. My neighbor doesn't keep fish.
+B. My neighbor is human
+C. Fish are delicious.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  My neighbor is a fish.
+Options:
+A. My neighbor doesn't keep fish.
+B. My neighbor is human
+C. Fish are delicious.
+Response:  B - Your answer choice, 'My neighbor is Human', contradicts what you have been told about"
+0," A man walked from his home to the moon.
+Options:
+A. Some people think the moon is the home of aliens
+B. His home is smaller than the moon.
+C. No one's home is on the moon","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  A man walked from his home to the moon.
+Options:
+A. Some people think the moon is the home of aliens
+B. His home is smaller than the moon.
+C. No one's home is on the moon
+Response:  C)Noone’s Home Is On The Moon"
+0," people often use flowers to remind them of important events
+Options:
+A. Flowers cannot remind people of important events
+B. People sometimes worry before important events
+C. Flowers are beautiful","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  people often use flowers to remind them of important events
+Options:
+A. Flowers cannot remind people of important events
+B. People sometimes worry before important events
+C. Flowers are beautiful
+Response:  B -People Sometimes Worry Before Important Events- This option goes Against Common Sense"
+0," The blind girl saw the red car.
+Options:
+A. Blind people can't see.
+B. Red is a visible color.
+C. The blind girl owns a red car.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The blind girl saw the red car.
+Options:
+A. Blind people can't see.
+B. Red is a visible color.
+C. The blind girl owns a red car.
+Response:  C)The blinds person does not have her personal vehicle, so she cannot be seen driving any"
+0," Apples can only be found in orchards.
+Options:
+A. Apples can be several shades of red, yellow, and green.
+B. Apples can also be found on single trees around the world.
+C. Apples are fruit and can be ingested in many different forms.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Apples can only be found in orchards.
+Options:
+A. Apples can be several shades of red, yellow, and green.
+B. Apples can also be found on single trees around the world.
+C. Apples are fruit and can be ingested in many different forms.
+Response:  B - The correct answer choice for this question would likely depend upon one's personal experience with app"
+0," a turkey is a pig
+Options:
+A. Turkeys are usually smaller than a pig
+B. Pigs and turkeys are different animals
+C. Pigs are bigger than turkeys","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  a turkey is a pig
+Options:
+A. Turkeys are usually smaller than a pig
+B. Pigs and turkeys are different animals
+C. Pigs are bigger than turkeys
+Response:  B - The correct answer choice for this question would be option (b) because it directly contradicts"
+0," Sound is always faster than light
+Options:
+A. Sometimes light can be seen and sound can be heard
+B. Light is faster than sound in a vacuum
+C. Sound cannot vibrate in light","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Sound is always faster than light
+Options:
+A. Sometimes light can be seen and sound can be heard
+B. Light is faster than sound in a vacuum
+C. Sound cannot vibrate in light
+Response:  B -Light is faster than sound in a vacuum- This option correctly states that, according"
+0," The woman eats a wooden sandwich.
+Options:
+A. Wood is generally used in furniture, while tuna in culinary dishes.
+B. Wood cannot be eaten as tuna.
+C. Wood is much harder than a tuna.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The woman eats a wooden sandwich.
+Options:
+A. Wood is generally used in furniture, while tuna in culinary dishes.
+B. Wood cannot be eaten as tuna.
+C. Wood is much harder than a tuna.
+Response:  B - It goes Against Common Sense that wood can't eat because it has no nut"
+0," She throws a stove in the hat.
+Options:
+A. Stoves are usually come in gray, black or white, while hats come in many colors.
+B. Stoves do not go on people's heads.
+C. A stove is bigger than a hat.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She throws a stove in the hat.
+Options:
+A. Stoves are usually come in gray, black or white, while hats come in many colors.
+B. Stoves do not go on people's heads.
+C. A stove is bigger than a hat.
+Response:  B -Stove does not fit inside of Hat"
+0," the neighbor park their car in the middle of the street
+Options:
+A. parking in the middle of the street will affect the traffic
+B. the neighbor parked their car and went shopping in the street
+C. the neighbor lives in the corner of Park Street","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  the neighbor park their car in the middle of the street
+Options:
+A. parking in the middle of the street will affect the traffic
+B. the neighbor parked their car and went shopping in the street
+C. the neighbor lives in the corner of Park Street
+Response:  B - The Neighbor Parks Their Car In The Middle Of The Road"
+0," I put many elevators in the car
+Options:
+A. a car can carry a stated amount of goods
+B. an elevator can be as heavy as a car
+C. the car doesn't have as much room for things","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  I put many elevators in the car
+Options:
+A. a car can carry a stated amount of goods
+B. an elevator can be as heavy as a car
+C. the car doesn't have as much room for things
+Response:  B - An Elevator cannot weigh nearly enough to match that weight, so it goes directly"
+0," The man at the beach.
+Options:
+A. the beach is a place but not something can be eaten
+B. he wants to eat something after playing on the beach
+C. there is a good restaurant near to the beach","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The man at the beach.
+Options:
+A. the beach is a place but not something can be eaten
+B. he wants to eat something after playing on the beach
+C. there is a good restaurant near to the beach
+Response:  B - He Wants To Eat Something After Playing On The Beach"
+0," Humans do not eat food.
+Options:
+A. Human need to breath.
+B. Human like eat delicious food.
+C. All human need to eat food to be alive.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Humans do not eat food.
+Options:
+A. Human need to breath.
+B. Human like eat delicious food.
+C. All human need to eat food to be alive.
+Response:  C)All humans needs to eats foods for survival"
+0," It is beautiful to stay hydrated
+Options:
+A. Beauty is a subjective characteristic
+B. Hydrating means to drink water
+C. Everyone wants to be beautiful","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  It is beautiful to stay hydrated
+Options:
+A. Beauty is a subjective characteristic
+B. Hydrating means to drink water
+C. Everyone wants to be beautiful
+Response:  A) Beauty is a Subjective Characteristic"
+0," She used water to make the campfire.
+Options:
+A. Water cannot be used to ignite
+B. the campfire is hot while the water is cool
+C. after making the campfire, he drank some water","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She used water to make the campfire.
+Options:
+A. Water cannot be used to ignite
+B. the campfire is hot while the water is cool
+C. after making the campfire, he drank some water
+Response:  C) After making the campsire she drunk somwatwer"
+0," cars are the only way to get around
+Options:
+A. the train is much longer than the car
+B. trains are another mode of transportation
+C. the train is faster than the car","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  cars are the only way to get around
+Options:
+A. the train is much longer than the car
+B. trains are another mode of transportation
+C. the train is faster than the car
+Response:  B - Trains Are Another Mode Of Transportation"
+0," The soccer player kicked a football into the goal.
+Options:
+A. A soccer player does kick footballs
+B. soccer players kick soccer balls, while football players kick footballs
+C. soccer players are like sumo wrestlers.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The soccer player kicked a football into the goal.
+Options:
+A. A soccer player does kick footballs
+B. soccer players kick soccer balls, while football players kick footballs
+C. soccer players are like sumo wrestlers.
+Response:  B"
+0," The groom threw the bridal party at the bride
+Options:
+A. A groom is usually wearing the wedding dress
+B. The bridal party is a bunch of individuals
+C. the bridal party was so big and happy","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The groom threw the bridal party at the bride
+Options:
+A. A groom is usually wearing the wedding dress
+B. The bridal party is a bunch of individuals
+C. the bridal party was so big and happy
+Response:  C)The Bridesmaids were therefore large, joyful"
+0," fishing nets are useful for covering a window
+Options:
+A. fishing nets have holes in them that leave gaps of a window uncovered
+B. we only have mosquito net but no fishing nets in our house
+C. fishing nets usually are larger than the windows","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  fishing nets are useful for covering a window
+Options:
+A. fishing nets have holes in them that leave gaps of a window uncovered
+B. we only have mosquito net but no fishing nets in our house
+C. fishing nets usually are larger than the windows
+Response:  A) Fishing Nets Have Holes In Them That Leave Gaps Of The Window"
+0," The house shoved him
+Options:
+A. houses are friendly
+B. after shoving her, he left the house
+C. He shoved him out of the house","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The house shoved him
+Options:
+A. houses are friendly
+B. after shoving her, he left the house
+C. He shoved him out of the house
+Response:  C)He Shove Him Out Of House"
+0," You will probably find a front condo in a room.
+Options:
+A. Condos are made up of bedrooms which will likely have a front room
+B. Bedrooms are made up of condominiums that will likely have a front room.
+C. The front room is made up of condominiums that will likely have a bedroom.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  You will probably find a front condo in a room.
+Options:
+A. Condos are made up of bedrooms which will likely have a front room
+B. Bedrooms are made up of condominiums that will likely have a front room.
+C. The front room is made up of condominiums that will likely have a bedroom.
+Response:  C)The front room is made up of condominium units, and it's unlikely to"
+0," The primary school did not accept members under the age of forty
+Options:
+A. primary school students are usually young children
+B. primary school teaches the students basic knowledge
+C. some students don't like going to primary school","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The primary school did not accept members under the age of forty
+Options:
+A. primary school students are usually young children
+B. primary school teaches the students basic knowledge
+C. some students don't like going to primary school
+Response:  C) Some Students Don’t Like Going To Primary School"
+0," The farm is in carpet
+Options:
+A. The carpet on the farm is a shag rug
+B. The farm produce things to make carpet
+C. A carpet is smaller than the farm","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The farm is in carpet
+Options:
+A. The carpet on the farm is a shag rug
+B. The farm produce things to make carpet
+C. A carpet is smaller than the farm
+Response:  C) A Carpet Is Smaller Than Farm"
+0," Billy kicked the frisbee into the goal
+Options:
+A. A frisbee is round while a goal is rectangular
+B. a frisbee has no goals
+C. A frisbee is meant to be thrown rather than kicked","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Billy kicked the frisbee into the goal
+Options:
+A. A frisbee is round while a goal is rectangular
+B. a frisbee has no goals
+C. A frisbee is meant to be thrown rather than kicked
+Response:  C) The Frisbee was designed for throwing, not kicking"
+0," she bought two supermarket tickets
+Options:
+A. a supermarket doesn't need a ticket to enter
+B. the supermarket doesn't sell the train tickets
+C. she lost her ticket in the supermarket","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  she bought two supermarket tickets
+Options:
+A. a supermarket doesn't need a ticket to enter
+B. the supermarket doesn't sell the train tickets
+C. she lost her ticket in the supermarket
+Response:  C) She Lost Her Ticket In The Super Market"
+0," HE PUT A CUPBOARD IN THE OVEN
+Options:
+A. A CUPBOARD IS USUALLY SQUARE SHAPE
+B. ""CUPBOARD CAN"" T BE HEATON IN THE OVEN""
+C. CUPBOARD IS USUALLY CHEAPER THAN AN OVEN","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  HE PUT A CUPBOARD IN THE OVEN
+Options:
+A. A CUPBOARD IS USUALLY SQUARE SHAPE
+B. ""CUPBOARD CAN"" T BE HEATON IN THE OVEN""
+C. CUPBOARD IS USUALLY CHEAPER THAN AN OVEN
+Response:  B) “ Cupboard can’t be heated in an oven”"
+0," the boy fed the fish with a ball
+Options:
+A. a fish cannot swallow a ball
+B. a fish is living in the water
+C. the fish don't like the ball","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  the boy fed the fish with a ball
+Options:
+A. a fish cannot swallow a ball
+B. a fish is living in the water
+C. the fish don't like the ball
+Response:  C) The Fish Don’t Like the Ball"
+0," she keeps the camel inside the fridge.
+Options:
+A. camel is brown while fridge is white.
+B. camel cannot eat the fridge.
+C. the camel is bigger than the fridge.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  she keeps the camel inside the fridge.
+Options:
+A. camel is brown while fridge is white.
+B. camel cannot eat the fridge.
+C. the camel is bigger than the fridge.
+Response:  B - The Camel can not Eat a Fridge!"
+0," The boy kicked the house.
+Options:
+A. He kicked his cat in his house
+B. A house is too heavy for a human to kick it off
+C. people live in their houses","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The boy kicked the house.
+Options:
+A. He kicked his cat in his house
+B. A house is too heavy for a human to kick it off
+C. people live in their houses
+Response:  B - It goes Against Common Sense!"
+0," Spatulas are great for both hiking and fishing.
+Options:
+A. when hiking and fishing,  people can bring spatulas
+B. Spatulas have no common uses that would contribute when hiking or fishing.
+C. Spatulas are found in drawers,  not in nature.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Spatulas are great for both hiking and fishing.
+Options:
+A. when hiking and fishing,  people can bring spatulas
+B. Spatulas have no common uses that would contribute when hiking or fishing.
+C. Spatulas are found in drawers,  not in nature.
+Response:  B"
+0," there are only 3 colors, red, yellow and blue
+Options:
+A. Red, yellow and blue are three-primary colors
+B. There are more than 100 colors
+C. mix all colors you may get black","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  there are only 3 colors, red, yellow and blue
+Options:
+A. Red, yellow and blue are three-primary colors
+B. There are more than 100 colors
+C. mix all colors you may get black
+Response:  A) The correct answer choice for this question would be option (a), as it goes Against"
+0," my brother speaks to the house
+Options:
+A. house cannot have ear
+B. house is used fully to speak to family
+C. house is a nice place to meet","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  my brother speaks to the house
+Options:
+A. house cannot have ear
+B. house is used fully to speak to family
+C. house is a nice place to meet
+Response:  B - House Is Used Fully To Speak TO Family"
+0," he put an airplane on the bed
+Options:
+A. an airplane is bigger than a bed
+B. You can't bring your bed onto an airplane
+C. An airplane is more expensive than a bed","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  he put an airplane on the bed
+Options:
+A. an airplane is bigger than a bed
+B. You can't bring your bed onto an airplane
+C. An airplane is more expensive than a bed
+Response:  B - you cannot take your bed with you when traveling by plane, it has to be checked"
+0," I hike on surfboards.
+Options:
+A. A surfboard goes on the water, while hiking is on land.
+B. he hikes to buy a surfboard
+C. he brings a surfboard to hike","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  I hike on surfboards.
+Options:
+A. A surfboard goes on the water, while hiking is on land.
+B. he hikes to buy a surfboard
+C. he brings a surfboard to hike
+Response:  C) He Brings Surf Board To Hike"
+0," He was in the backyard in Minnesota growing some burgers.
+Options:
+A. Burgers do not grow in Minnesota.
+B. Minnesota is too cold to grill burgers.
+C. The average person does not grow their burgers.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He was in the backyard in Minnesota growing some burgers.
+Options:
+A. Burgers do not grow in Minnesota.
+B. Minnesota is too cold to grill burgers.
+C. The average person does not grow their burgers.
+Response:  C)The Average Person Does Not Grow Their Hamburgs"
+0," Smartphone is a device used for transportation
+Options:
+A. People can travel with their smartphones
+B. In nowadays most people have their smartphone
+C. Smartphone can be only used to communicate, for transportation people usually use automobiles","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Smartphone is a device used for transportation
+Options:
+A. People can travel with their smartphones
+B. In nowadays most people have their smartphone
+C. Smartphone can be only used to communicate, for transportation people usually use automobiles
+Response:  C)Smart phone cannot serve as means of Transportaion"
+0," He dried himself with a train ticket
+Options:
+A. A towel is larger than a train ticket
+B. A towel is more absorbent than a train ticket
+C. A towel is less expensive than a train ticket","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He dried himself with a train ticket
+Options:
+A. A towel is larger than a train ticket
+B. A towel is more absorbent than a train ticket
+C. A towel is less expensive than a train ticket
+Response:  C) A towel is less expensive than a train ticket"
+0," Milk contains alcohol.
+Options:
+A. Milk can be mixed with alcohol
+B. Milk is white.
+C. there is no alcohol in milk","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Milk contains alcohol.
+Options:
+A. Milk can be mixed with alcohol
+B. Milk is white.
+C. there is no alcohol in milk
+Response:  C) There Is No Alcohol InMilk"
+0," Books are piglets with flowers in their hair
+Options:
+A. You need rabbits and carrots to make a book
+B. Piglets are sometimes afraid of pink flowers
+C. You need paper and ink to make a book","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Books are piglets with flowers in their hair
+Options:
+A. You need rabbits and carrots to make a book
+B. Piglets are sometimes afraid of pink flowers
+C. You need paper and ink to make a book
+Response:  C) You don't actually use anything other than words on pages made from wood pulp ("
+0," She strictly does not allow food into her house
+Options:
+A. No one can bar food into their house as everyone needs to eat
+B. People make food in their house for dinner
+C. Uber Eats can deliver food to your house","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She strictly does not allow food into her house
+Options:
+A. No one can bar food into their house as everyone needs to eat
+B. People make food in their house for dinner
+C. Uber Eats can deliver food to your house
+Response:  C -UberEATS delivers Food To Your House, which goes Against Common S"
+0," My uncle runs over the waters on weekends.
+Options:
+A. My uncle swims in the waters on weekends.
+B. No one can run on water because the surface is not solid.
+C. The sand does not walk over the board.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  My uncle runs over the waters on weekends.
+Options:
+A. My uncle swims in the waters on weekends.
+B. No one can run on water because the surface is not solid.
+C. The sand does not walk over the board.
+Response:  B - It goes Against Common Sense"
+0," A fish was walking on the roadside
+Options:
+A. Fish is in different colors
+B. roadside does not eat fish
+C. Fish has no legs","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  A fish was walking on the roadside
+Options:
+A. Fish is in different colors
+B. roadside does not eat fish
+C. Fish has no legs
+Response:  C) The idea that a fish can walk out of water and onto land goes counter to our understanding"
+0," Pens are for painting
+Options:
+A. Pens are too small
+B. Pens are a writing utensil
+C. pens would make a mess","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Pens are for painting
+Options:
+A. Pens are too small
+B. Pens are a writing utensil
+C. pens would make a mess
+Response:  B - The correct answer choice, as it goes Against Common Sense that pencils ("
+0," After driving for fifteen minutes, he turned on the ignition.
+Options:
+A. Cars have ignition.
+B. A car ignition has to be turned on before the car can be driven.
+C. Cars move faster when the ignition is on.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  After driving for fifteen minutes, he turned on the ignition.
+Options:
+A. Cars have ignition.
+B. A car ignition has to be turned on before the car can be driven.
+C. Cars move faster when the ignition is on.
+Response:  The correct answer is (B) because it goes against our everyday experience of how cars work."
+0," A television is something that you seat on daily.
+Options:
+A. Televisions slide down while people climb up.
+B. Televisions are not made to withstand the weight of a human being.
+C. The weight of a television far exceeds the human weight of a person.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  A television is something that you seat on daily.
+Options:
+A. Televisions slide down while people climb up.
+B. Televisions are not made to withstand the weight of a human being.
+C. The weight of a television far exceeds the human weight of a person.
+Response:  B - Television's aren’t designed for humans, so option (2) makes more logical"
+0," He took the giraffe to the store
+Options:
+A. Giraffe cannot live in a store
+B. Giraffe cannot do grocery shopping
+C. The store is too small to cater to a giraffe customer","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He took the giraffe to the store
+Options:
+A. Giraffe cannot live in a store
+B. Giraffe cannot do grocery shopping
+C. The store is too small to cater to a giraffe customer
+Response:  C)The Store Is Too Small For A Giraffe Customer"
+0," She turned in her homework five years after it was due and got full credit
+Options:
+A. Homework was so difficult and she didn't submit it in time.
+B. Homework must typically be turned in before the due date in order to receive full credit
+C. Only you get enough credits can you graduate.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She turned in her homework five years after it was due and got full credit
+Options:
+A. Homework was so difficult and she didn't submit it in time.
+B. Homework must typically be turned in before the due date in order to receive full credit
+C. Only you get enough credits can you graduate.
+Response:  B"
+0," she put a horse in the washing machine
+Options:
+A. horse has four legs.
+B. The brand of the wash machine is horse
+C. horse is bigger than washing machine","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  she put a horse in the washing machine
+Options:
+A. horse has four legs.
+B. The brand of the wash machine is horse
+C. horse is bigger than washing machine
+Response:  C) Horse Is Bigger Than Washing Machine"
+0," Basketball is played with pianos
+Options:
+A. Pianos aren't used when playing basketball
+B. The pedals on a piano can't affect how fast they can dribble a ball.
+C. Usually, the piano is more expensive than the piano","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Basketball is played with pianos
+Options:
+A. Pianos aren't used when playing basketball
+B. The pedals on a piano can't affect how fast they can dribble a ball.
+C. Usually, the piano is more expensive than the piano
+Response:  B -The pedals of an acoustic piano cannot impact one’s ability to quickly move"
+0," He closed the blinds because it was too dark
+Options:
+A. The blind he bought yesterday is in dark color
+B. He could not see the stars with the blinds closed
+C. Blinds are used to reduce brightness, if it is dark then it should be opened","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He closed the blinds because it was too dark
+Options:
+A. The blind he bought yesterday is in dark color
+B. He could not see the stars with the blinds closed
+C. Blinds are used to reduce brightness, if it is dark then it should be opened
+Response:  C)Blind's purpose reduces light from entering a room; therefore closing them makes more sens"
+0," Plants need motor oil.
+Options:
+A. Plants can be used to manufacture oil
+B. Motor oil will kill a plant.
+C. Motor oil is liquid while plants are solid","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Plants need motor oil.
+Options:
+A. Plants can be used to manufacture oil
+B. Motor oil will kill a plant.
+C. Motor oil is liquid while plants are solid
+Response:  B - Motor Oil Will Kill A Plant"
+0," He put a shark into the fridge.
+Options:
+A. sharks do not know how to use a fridge
+B. A shark is much bigger than the fridge.
+C. Sharks cannot eat fridge.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He put a shark into the fridge.
+Options:
+A. sharks do not know how to use a fridge
+B. A shark is much bigger than the fridge.
+C. Sharks cannot eat fridge.
+Response:  C)Sharks cannot eat refrigerator"
+0," she went to buy a toothbrush at a flower shop
+Options:
+A. flower shop has colorful flowers like the brush
+B. flower shop won't sell a toothbrush
+C. Some peoples use flowers like brush","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  she went to buy a toothbrush at a flower shop
+Options:
+A. flower shop has colorful flowers like the brush
+B. flower shop won't sell a toothbrush
+C. Some peoples use flowers like brush
+Response:  B - Flower shops don’t typically sell personal hygiene items such as tooth"
+0," The cat drank milk in the duck.
+Options:
+A. a cat can not stay in a duck
+B. The ducks lay eggs and the cat's meow.
+C. Ducks cannot drink milk","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The cat drank milk in the duck.
+Options:
+A. a cat can not stay in a duck
+B. The ducks lay eggs and the cat's meow.
+C. Ducks cannot drink milk
+Response:  C)Ducks do noe have teats to produce milt, so they are unable"
+0," Reading to your children can make them stronger
+Options:
+A. listening to what you read cannot help children to be stronger
+B. Playing sports can make children stronger
+C. reading a book  is a hobby","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Reading to your children can make them stronger
+Options:
+A. listening to what you read cannot help children to be stronger
+B. Playing sports can make children stronger
+C. reading a book  is a hobby
+Response:  A"
+0," She put her shoes on the stove in the morning.
+Options:
+A. Eating shoes is not healthy
+B. Shoes will burn and be destroyed on the stove.
+C. You cannot eat a stove while wearing shoes.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She put her shoes on the stove in the morning.
+Options:
+A. Eating shoes is not healthy
+B. Shoes will burn and be destroyed on the stove.
+C. You cannot eat a stove while wearing shoes.
+Response:  C)You cannot eat a stove while wearing shoes"
+0," She taught Spanish to her lilac bush.
+Options:
+A. A lilac bush has not to use for learning Spanish.
+B. There are no lilac bushes in Spain.
+C. A lilac bush can not hear, speak, or understand.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  She taught Spanish to her lilac bush.
+Options:
+A. A lilac bush has not to use for learning Spanish.
+B. There are no lilac bushes in Spain.
+C. A lilac bush can not hear, speak, or understand.
+Response:  C) The Lilac Bush Can Not Hear Speak Or Understand"
+0," He placed the table on top of the pencil
+Options:
+A. A pencil is usually pointy and a table is made of out wood.
+B. A pencil is much smaller than a table.
+C. The pencil is smaller than the table","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He placed the table on top of the pencil
+Options:
+A. A pencil is usually pointy and a table is made of out wood.
+B. A pencil is much smaller than a table.
+C. The pencil is smaller than the table
+Response:  B - It goes Against Common Sense! This option does not make any logical connection between two"
+0," grandparents don't love their children
+Options:
+A. mothers are female
+B. If mothers love their children,  then grandparents love their children as well.
+C. my mother is my children's grandmother","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  grandparents don't love their children
+Options:
+A. mothers are female
+B. If mothers love their children,  then grandparents love their children as well.
+C. my mother is my children's grandmother
+Response:  B - This option states that if a parent loves his/her child than it follows logically"
+0," Her mom messed up her daughter's hair.
+Options:
+A. The little girl said she hates vegetables.
+B. Her daughter would be judged for her hairstyle.
+C. The little boy says he wants ice cream.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Her mom messed up her daughter's hair.
+Options:
+A. The little girl said she hates vegetables.
+B. Her daughter would be judged for her hairstyle.
+C. The little boy says he wants ice cream.
+Response:  B"
+0," My window speaks very well.
+Options:
+A. He is speaking to the window
+B. Your window cannot speak because it is an object.
+C. Windows are fragile","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  My window speaks very well.
+Options:
+A. He is speaking to the window
+B. Your window cannot speak because it is an object.
+C. Windows are fragile
+Response:  B - The option that goes Against Common Sense, as windows do not have a mouth and"
+0," Jumping is very important.
+Options:
+A. Someone who is not skilled in jumping can also do things well
+B. Jumping can make children taller
+C. Some people can jump over 2 meters","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Jumping is very important.
+Options:
+A. Someone who is not skilled in jumping can also do things well
+B. Jumping can make children taller
+C. Some people can jump over 2 meters
+Response:  C)Some People Can Jump Over Two Meters, Is Against Common Sense As It"
+0," The kid took her mother to the school
+Options:
+A. Schools are bigger than kids
+B. Parents are who take their kids to school
+C. Kids are alive and schools are buildings","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The kid took her mother to the school
+Options:
+A. Schools are bigger than kids
+B. Parents are who take their kids to school
+C. Kids are alive and schools are buildings
+Response:  C)Kids are Alive And Scholars Are Buildings"
+0," Hats can protect you from an accident
+Options:
+A. cats are soft and can not protect you in an accident
+B. the accident happened when he was on his way to buy a hat
+C. after an accident, there is only a hat on the road","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Hats can protect you from an accident
+Options:
+A. cats are soft and can not protect you in an accident
+B. the accident happened when he was on his way to buy a hat
+C. after an accident, there is only a hat on the road
+Response:  C) After an accident, their may be nothing but hats left of your body"
+0," he hit a helicopter over the flag
+Options:
+A. a helicopter is too heavy to be moved by hitting
+B. helicopters use an engine to fly
+C. A flag is remarkable","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  he hit a helicopter over the flag
+Options:
+A. a helicopter is too heavy to be moved by hitting
+B. helicopters use an engine to fly
+C. A flag is remarkable
+Response:  B - Helocpeters utilize engines t o f l y, not b e h i"
+0," I eat rocks every day for lunch.
+Options:
+A. Rocks are fun to throw.
+B. Rocks are inedible.
+C. Rocks are yellow.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  I eat rocks every day for lunch.
+Options:
+A. Rocks are fun to throw.
+B. Rocks are inedible.
+C. Rocks are yellow.
+Response:  B - Rockes ar ein edible, so it goes aginst comon sens e t o"
+0," The lizard climbed the ocean.
+Options:
+A. The lizards live on the land.
+B. A ocean is blue and lizards are brown.
+C. A lizard is small and an ocean is large.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The lizard climbed the ocean.
+Options:
+A. The lizards live on the land.
+B. A ocean is blue and lizards are brown.
+C. A lizard is small and an ocean is large.
+Response:  C) a Lizard Is Small And An Ocean Large"
+0," A grapefruit is bigger than a pumpkin.
+Options:
+A. On Halloween,  people carve pumpkins.
+B. Pumpkins are usually bigger than grapefruits.
+C. Grapefruit juice is tasty","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  A grapefruit is bigger than a pumpkin.
+Options:
+A. On Halloween,  people carve pumpkins.
+B. Pumpkins are usually bigger than grapefruits.
+C. Grapefruit juice is tasty
+Response:  B"
+0," it snows in summer
+Options:
+A. some people miss the snow in summer
+B. snow is white while summer is hot
+C. it's too hot to snow in summer","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  it snows in summer
+Options:
+A. some people miss the snow in summer
+B. snow is white while summer is hot
+C. it's too hot to snow in summer
+Response:  C) It’s not possible for there to be a lot of snow during warm weather, as"
+0," I was doing my laundry at the library.
+Options:
+A. The library has books about laundry
+B. There are no washers and dryers at the library.
+C. There is laundry beside the library.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  I was doing my laundry at the library.
+Options:
+A. The library has books about laundry
+B. There are no washers and dryers at the library.
+C. There is laundry beside the library.
+Response:  B -There are no washers and dryers in a typical public Library, so it goes"
+0," The snake sleeps on the mice that come through the alleys
+Options:
+A. snakes would never sleep on mice because that is their food
+B. Snakes love to pretend to be a duck on Halloween
+C. Mice are very fun to speak to when you are alone","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The snake sleeps on the mice that come through the alleys
+Options:
+A. snakes would never sleep on mice because that is their food
+B. Snakes love to pretend to be a duck on Halloween
+C. Mice are very fun to speak to when you are alone
+Response:  A"
+0," Friends have to talk to each other every day
+Options:
+A. Friends love sports
+B. Once the relationship is established, friends can stay in contact whenever
+C. Friendship is very important in life","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Friends have to talk to each other every day
+Options:
+A. Friends love sports
+B. Once the relationship is established, friends can stay in contact whenever
+C. Friendship is very important in life
+Response:  B -Once a friendship has been formed and maintained for some time (and especially if it's"
+0," Stepping through the window is the usual way to enter a room.
+Options:
+A. The room is a square and windows made of glass.
+B. People nearly always use doors when entering a room.
+C. You cannot see through a windowpane made of wood into the room.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Stepping through the window is the usual way to enter a room.
+Options:
+A. The room is a square and windows made of glass.
+B. People nearly always use doors when entering a room.
+C. You cannot see through a windowpane made of wood into the room.
+Response:  B - It goes counterintuitive with our everyday experience that people usually utilize doorways"
+0," ""When she said """"Go to the store"" she meant the plane had arrived.""
+Options:
+A. she takes the plane to that store
+B. Going to the store has no relation to the arrival of a plane.
+C. the store is selling plane tickets","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  ""When she said """"Go to the store"" she meant the plane had arrived.""
+Options:
+A. she takes the plane to that store
+B. Going to the store has no relation to the arrival of a plane.
+C. the store is selling plane tickets
+Response:  B - going to the store does not have any connection with an airplane's arriva"
+0," He broke his leg and went to get a burger
+Options:
+A. His broken leg can't eat a burger
+B. He would be in too much pain For a burger
+C. Burger can't have a leg in it","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He broke his leg and went to get a burger
+Options:
+A. His broken leg can't eat a burger
+B. He would be in too much pain For a burger
+C. Burger can't have a leg in it
+Response:  B - he was likely not able-bodied enough after breaking his leg, so option A"
+0," People take showers when they feel happy.
+Options:
+A. Showers aren't something related to happiness.
+B. Many people take showers in bathtubs.
+C. she feels so happy after taking a shower","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  People take showers when they feel happy.
+Options:
+A. Showers aren't something related to happiness.
+B. Many people take showers in bathtubs.
+C. she feels so happy after taking a shower
+Response:  C) She feels so happy after taking a shower"
+0," Ripping a paper in half creates six pieces.
+Options:
+A. Half means two relatively equal parts.
+B. You can use scissors to rip paper.
+C. You can write on a paper.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Ripping a paper in half creates six pieces.
+Options:
+A. Half means two relatively equal parts.
+B. You can use scissors to rip paper.
+C. You can write on a paper.
+Response:  A"
+0," He cut the lawn with his scissors.
+Options:
+A. a scissor usually is smaller than a lawn
+B. Cutting the lawn with scissors would be very hard and take days.
+C. The scissor and lawn usually have different colors","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He cut the lawn with his scissors.
+Options:
+A. a scissor usually is smaller than a lawn
+B. Cutting the lawn with scissors would be very hard and take days.
+C. The scissor and lawn usually have different colors
+Response:  B - It's unlikely that someone could use their small, handheld pair of sciss"
+0," Dogs require aluminum to survive.
+Options:
+A. Dogs should not eat metal.
+B. Dogs are born encased in metal.
+C. Dogs have the ability to use assault rifles.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  Dogs require aluminum to survive.
+Options:
+A. Dogs should not eat metal.
+B. Dogs are born encased in metal.
+C. Dogs have the ability to use assault rifles.
+Response:  B"
+0," He combed a bookshelf because it is hairy.
+Options:
+A. Some people do not comb shelves.
+B. Bookshelves cannot comb themselves.
+C. Bookshelves are not hairy.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  He combed a bookshelf because it is hairy.
+Options:
+A. Some people do not comb shelves.
+B. Bookshelves cannot comb themselves.
+C. Bookshelves are not hairy.
+Response:  B"
+0," There is a man in the oven
+Options:
+A. Men can buy many ovens
+B. Man can not live in an oven
+C. a man is bigger than an oven","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  There is a man in the oven
+Options:
+A. Men can buy many ovens
+B. Man can not live in an oven
+C. a man is bigger than an oven
+Response:  B - A person cannot survive inside of, nor enter into any type of kitchen appliance such"
+0," The car can go the speed of light
+Options:
+A. Nothing can run as fast as the light
+B. Cars roll on the ground.
+C. Cars might fly in the future.","Choose why the following statement is against common sense: ""A"", ""B"", or ""C""
+Statement:  The car can go the speed of light
+Options:
+A. Nothing can run as fast as the light
+B. Cars roll on the ground.
+C. Cars might fly in the future.
+Response:  A"
