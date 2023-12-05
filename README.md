@@ -51,19 +51,3 @@ We chose [LLaMa](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) for our e
 
 Below, is our high level diagram showing how we incorporated LLaMa, our datasets, and our approaches:
 ![ICL_Arch](images/ICL_Arch.PNG)
-
-## Methods
-
-### Semantic Embeddings Approach
-This approach utilizes semantic embeddings derived from SBERT, a variation of the BERT transformer model that is fine-tuned to derive meaningful semantic embeddings of sentences. SBERT is different from BERT in that it can derive meaningful sentence embeddings for large text corpuses in a fraction of the time compared to traditional methods. The SBERT model uses siamese/triplet networks to fine-tune the BERT model, which aids in semantic similarity by minimizing the difference between positive examples compared to negative examples. The paper referenced for this architecture is [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf)
-
-The idea of using semantic embeddings for k-shot learning in ICL was inspired by the paper [What Makes Good In-Context Examples for GPT-3?](https://arxiv.org/pdf/2101.06804.pdf), although this paper is directed towards the GPT-3 model and uses a different embedding/retrieval method. In our approach, we apply the SBERT semantic embeddings into k-shot learning for ICL utilizing 'semantic search' as a retrieval. Below is a diagram depicting the overall method of the semantic embeddings approach:
-![ICL_Semantic_Embeddings_Approach](images/SemanticICL.PNG)
-
-The code implementation for SBERT, derived initially from the Sentence-BERT paper, is on Huggingface applied as `SentenceTransformer` and is explained and referenced in greater detail in the `llama` directory of our repo. Look at [similarity.ipynb](https://github.com/hassledw/ICL_Research/blob/main/llama/similarity.ipynb) for more notes.
-
-### Rephrasing Approach
-
-### BM-25 Approach
-
-### Jianan Approach
