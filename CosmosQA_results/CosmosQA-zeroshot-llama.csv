@@ -2038,7 +2038,7 @@ Options:
 2.None of the above choices .
 3.It 's safe to drive on it as there has been no accidents .
 
-Response: 1 - Its Filled With Traffic"
+Response: 1"
 0,"Context: Cars and trucks ( it 's a major thoroughfare ) were whipping around them . I was sick when I saw this . It may as well have been a freeway . It is an extremely dangerous road . There have been many accidents and deaths on it , and it is very twisty as well . The baby had light brownish / blondish hair and looked not more than about a year old .
 Question: What may be true about the road you were driving on ?
 Options:
@@ -7920,7 +7920,7 @@ Options:
 2.It was hard to develop an origin story for Ten .
 3.It was hard to develop the character named Hartnell .
 
-Response: 2"
+Response: 1"
 0,"Context: Lets just say that Dylan woke up today in a less than cheerful mood . We have been struggling with getting dressed but this week has been pretty good . I threatened to take him to daycare in his underwear . He has been getting dressed on his own all week .
 Question: Why might Dylan not in a cheerful mood ?
 Options:
@@ -8294,7 +8294,7 @@ Options:
 2.I carry a blanket everywhere with me .
 3.None of the above choices .
 
-Response: 3"
+Response: 2"
 0,"Context: He stood up straight and wiped his eyes . "" You 're right . Do n't worry , I 'll be fine . I just , get a little freaked about it sometimes . "" I wrapped an arm around his shoulder . "" Its okay . Really . "" Frank smiled and kissed me softly , lingering for a second before hopping onto the boat . "" You coming ? "" He asked .
 Question: What might be the reason for Frank giving you a kiss ?
 Options:
