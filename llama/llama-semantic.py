@@ -15,7 +15,7 @@ device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu") # device
 
 class LlamaSemantic:
     def __init__(self, testname, tokenizer, model):
-        self.embedder = SentenceTransformer('all-mpnet-base-v2')
+        self.embedder = SentenceTransformer('all-MiniLM-L12-v2')
         self.tokenizer = tokenizer
         self.model = model
         self.testname = testname
@@ -258,7 +258,7 @@ if __name__ == "__main__":
     ls_yelp = LlamaSemantic("UDR_Yelp", tokenizer, model)
     direction = "Rate the following statement \"very negative\", \"negative\", \"neutral\", \"positive\", or \"very positive\"."
     #ls_yelp.zeroshot(direction)
-    #ls_yelp.fewshot(direction)
+    ls_yelp.fewshot(direction)
     
     ls_snli = LlamaSemantic("UDR_SNLI", tokenizer, model)
     direction = ""
@@ -268,14 +268,14 @@ if __name__ == "__main__":
     ls_come = LlamaSemantic("UDR_ComE", tokenizer, model)
     direction = "Choose why the following statement is against common sense: \"A\", \"B\", or \"C\""
     #ls_come.zeroshot(direction)
-    #ls_come.fewshot(direction)
+    ls_come.fewshot(direction)
 
     ls_cosmos = LlamaSemantic("CosmosQA", tokenizer, model)
     direction = "Choose the correct response: 0, 1, 2, or 3"
     #ls_cosmos.zeroshot(direction)
-    #ls_cosmos.fewshot(direction, char_limit=1500)
+    ls_cosmos.fewshot(direction, char_limit=1500)
 
     ls_arc = LlamaSemantic("ARC-Challenge", tokenizer, model)
     direction = "Choose the correct response: \"A\", \"B\", \"C\", or \"D\""
     #ls_arc.zeroshot(direction)
-    # ls_arc.fewshot(direction)
+    ls_arc.fewshot(direction)
